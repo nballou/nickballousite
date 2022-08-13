@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '/publications/'
+    url: '/publication/'
     weight: 40
   - name: Open Science
     url: '/openScience/'
     weight: 50
   - name: Posts
-    url: '/posts/'
+    url: '/post/'
     weight: 60
   - name: Resume/CV
     url: 'files/cv.pdf'

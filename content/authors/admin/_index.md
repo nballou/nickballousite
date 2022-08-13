@@ -2,26 +2,26 @@
 authors:
 - admin
 bio: PhD candidate interested in how video games and well-being relate, and using detailed behavioral data to unpack those relationships better. Looking to make science a little less broken.
-education:
-  courses:
-  - course: PhD, CDT in Intelligent Games and Game Intelligence
-    institution: Queen Mary University of London
-    year: 2019-present
-  - course: MPhil, Theoretical and Applied Linguistics
-    institution: University of Cambridge
-    year: 2018
-  - course: BS, Linguistics and Environmental Studies
-    institution: Tulane University
-    year: 2016
-
-email: "nick.ballou@gmail.com"
-interests:
-- Video game play
-- Self-report vs "digital trace" play measures
-- Dysregulated (disordered) gaming
-- Self-determination theory
-- Psychometrics
-- Open research
+# education:
+#   courses:
+#   - course: PhD, CDT in Intelligent Games and Game Intelligence
+#     institution: Queen Mary University of London
+#     year: 2019-present
+#   - course: MPhil, Theoretical and Applied Linguistics
+#     institution: University of Cambridge
+#     year: 2018
+#   - course: BS, Linguistics and Environmental Studies
+#     institution: Tulane University
+#     year: 2016
+# 
+# email: "nick.ballou@gmail.com"
+# interests:
+# - Video game play
+# - Self-report vs "digital trace" play measures
+# - Dysregulated (disordered) gaming
+# - Self-determination theory
+# - Psychometrics
+# - Open research
 name: Nick Ballou
 organizations:
 - name: "Queen Mary University of London, Intelligent Games CDT"
@@ -46,7 +46,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day-to-day life, successfully or not? How do changes in how people are feeling affect gaming behavior, such as playing longer sessions or at different times of day? I hope questions like these can help players/parents, clinicians, and game developers to understand the "active ingredients" of healthy gaming.
+Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day-to-day life, successfully or not? How do changes in how people are feeling affect gaming behavior, such as playing longer sessions or at different times of day?
 
 I am the [UK Reproducibility Network](https://www.ukrn.org) Local Network Lead at QMUL, and am involved in science reform/open science advocacy and training, as well as meta-scientific research (when I have time).
 
