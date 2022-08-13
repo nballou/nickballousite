@@ -9,6 +9,7 @@ subtitle: A layperson-friendly summary of a recent interview study about negativ
 smartDashes: yes
 tags: []
 categories: []
+toc: true
 ---
 
 <style>

@@ -11,6 +11,7 @@ smartDashes: true
 aliases:
   - /posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
   - /posts/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
+toc: true
 ---
 
 <style>
