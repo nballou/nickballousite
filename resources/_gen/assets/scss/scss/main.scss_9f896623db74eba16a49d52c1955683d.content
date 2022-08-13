@@ -9160,11 +9160,12 @@ html[dir='rtl'] body {
 
 .wg-about .background-img {
   position: absolute;
-  max-width: 73%;
-  bottom: 70px; }
-  @media (max-width: 1200px) {
-    .wg-about .background-img .post .sc_image img {
-      display: none; } }
+  max-width: 100%;
+  left: 0px;
+  bottom: 0px; }
+  @media screen and (min-width: 768px) {
+    .wg-about .background-img {
+      bottom: 80px; } }
 @media screen and (min-width: 1200px) {
   .wg-about .container {
     margin-bottom: 200px; } }

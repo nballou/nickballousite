@@ -14,12 +14,11 @@
 
 .wg-about .background-img {
   position: absolute;
-  max-width: 73%;
-  bottom: 70px;
-  @media(max-width: 1200px) { 
-    .post .sc_image img { 
-      display: none; 
-    }
+  max-width: 100%;
+  left: 0px;
+  bottom: 0px;
+  @media screen and (min-width: 768px) {
+    bottom: 80px;
   }
 }
 
