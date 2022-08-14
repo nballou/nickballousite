@@ -46,7 +46,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br > Hello! I'm a PhD student at Queen Mary University of London studying well-being and video gaming, in terms of both quantity and quality of play. How do people use games to address frustrations in their day-to-day life, successfully or not? How do changes in how people are feeling affect gaming behavior, such as playing longer sessions or at different times of day?
+</br ></br > Hello! I'm a PhD student at Queen Mary University of London studying well-being and video gaming, in terms of both quantity and quality of play. How do people use games to address frustrations in their day-to-day life, successfully or not? How do changes in how people are feeling affect gaming behavior, such as playing longer sessions or at different times of day?
 
 I'm also committed to making psychological research on games more trustworthy and rigorous. I'm heavily involved in open science advocacy, training, and meta-scientific research, and serve as the [UK Reproducibility Network](https://www.ukrn.org) Local Network Lead at QMUL.
 
