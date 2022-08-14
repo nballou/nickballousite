@@ -12,11 +12,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title:
+title: 
 
 # [design.spacing]
 # Customize the section spacing. Order is top, right, bottom, left.
-css_style: "padding-top: 500px; padding-bottom: 20px;"
+css_style: "padding-top: 20px; padding-bottom: 20px;"
+
+# design:
+#   background:
+#       gradient_start: '#4bb4e3'
+#       gradient_end: '#2b94c3'
+#       gradient_angle: 180
+
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
