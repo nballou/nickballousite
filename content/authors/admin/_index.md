@@ -24,7 +24,7 @@ interests:
 - Open research
 name: Nick Ballou
 organizations:
-- name: "Queen Mary University of London, Intelligent Games and Game Intelligence Programme"
+- name: "Queen Mary University of London, Intelligent Games and Game Intelligence Program"
   url: "https://iggi.org.uk/"
 role: Psychology of Video Games PhD Researcher 
 social:
