@@ -3,7 +3,7 @@ title: "Negative Gaming Experiences, Expectations, and Disengagement"
 author: "admin"
 date: '2022-07-25'
 slug: need-frustration-grounded-theory
-draft: yes
+draft: no
 summary: A layperson-friendly summary of a recent interview study about negative experiences in games, player expectations, and (dis)engagement.
 subtitle: A layperson-friendly summary of a recent interview study about negative experiences in games, player expectations, and (dis)engagement.
 smartDashes: yes
@@ -19,11 +19,24 @@ body {
 h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
+td {
+  text-align: left;
+}
+table {
+  border-spacing: 5em 5em;
+  padding: 0 2em 1em 0;
+}
+blockquote {
+    color: #ffffff;
+    background-color: #2a4042;
+}
 </style>
 
 ## Introduction
 
-After over a year of painstaking progress, I've finally completed a core study for my PhD thesis about the role of certain types of frustrating experiences in games, and how they affect players' experience and behavior. The full paper is available [on PsyArXiv as a preprint](https://psyarxiv.com/zehgr/) while it undergoes peer review, but in the meantime I wanted to make a shorter summary available as a blog post.
+**Note**: The contents of this blog post are available in even further abbreviated form by checking out the [slides I used to present this paper](https://nickballou.com/files/iggiCon22_needFrustration.pptx) at the 2022 IGGI Conference.
+
+After over a year of painstaking progress, I've finally completed a study about certain types of frustrating experiences in games, and how they affect players' experience and behavior. The full paper is available [on PsyArXiv as a preprint](https://psyarxiv.com/zehgr/) while it undergoes peer review, but in the meantime I wanted to make a shorter summary available as a blog post.
 
 The study's goal was to understand when and why *need frustration*---experiences such as failure, loneliness, or coercion---arises in video games, and what it has on players' behavior. 
 
@@ -50,24 +63,24 @@ In the table below, I've given some examples of need-satisfying and need-frustra
 
 ## What we did
 
-We decided to address this by interviewing players about their experiences. We ended up interviewing 12 players, each for about an hour. We transcribed the interviews, and then used a method called grounded theory to develop a working model of how need frustration was occuring, and what consequences it had for players. This is an intellectually challenging process, because the goal is to constantly be challenging the model and trying to "break" it---in fact, in this method, you choose whom to interview one person at a time, so that you can select a person who would be most likely to either enrich or contradict your ideas.
+We decided to address this by interviewing players about their experiences. We transcribed the interviews, and used a method called grounded theory to develop a working model of how need frustration occurred and what consequences it had for players. The goal, and indeed hardest part about using grounded theory, is to constant challenge the model and try to "break" it---in this method, you choose whom to interview one person at a time and keep updating your list of questions, so that you can generate the data that would be most likely to either enrich or contradict your ideas.
 
-We interviewed a total of 12 players from 8 different countries who each played a variety of different games, and who included a variety of ages, genders, and relationships to gaming.
+We interviewed a total of 12 players from 8 different countries who each played a variety of different games, and who included a variety of ages, genders, and relationships to gaming. Each interview lasted about an hour.
 
 ## What we found
 
 Below is the visual summary of the model we came up with. 
 
 <figure>
-  <img src="/img/groundedTheoryModelTransparent.png" width="600"/>
+  <img src="/img/groundedTheoryModel.png" width="600"/>
   <figcaption> Need frustration occurs when players’ experience a need-frustrating situation that is more intense than they expected. Over time, need frustration experiences cause players’ to alter their expectations for future experiences. These expectations in turn lead them to change their behavior: they might  alterations to play behavior aimed at reducing future need frustration. Sometimes, if there are other motivating factors, or "extrinsic motivations", players might choose to continue playing despite expecting it to be need-frustrating. need-frustrating.</figcaption>
 </figure>
 
-The diagram has too many components for me to describe them all here---every line in the figure needs to be supported by multiple quotes from participants. I'll focus here on the two bits I find most important: the need-frustrating *situations*, and player *expectations*, and briefly describe how this might cause people to change their behavior.
+The diagram has too many components for me to describe them all here---every line in the figure needs to be supported by multiple quotes from participants. I'll first summarize the need-frustrating *situations*; while we found three categories of need-frustrating situations for each basic need, for space reasons I'll just highlight one. Afterwards, I'll discuss player *expectations* and how these lead people to change their behavior.
 
 #### Autonomy Frustration
 
-One of the most common types of autonomy-frustrating experiences is having one's desired playstyle constrained. In other words, something prevented players from playing how they wanted to play at that moment---e.g., playing a particular character, using particular equipment or abilities, or taking certain in-game decisions. Constraints could arise from other players (for example, having one's favorite champion or role taken in *Overwatch*), or from the game itself. One player wrote about how the game took her through a section of a storyline that she didn't want to be part of: 
+One of the most common types of autonomy-frustrating experiences is having one's *desired playstyle constrained*. In other words, something prevented players from playing how they wanted to play at that moment---e.g., playing a particular character, using particular equipment or abilities, or taking certain in-game decisions. Constraints could arise from other players (for example, having one's favorite champion or role taken in *Overwatch*), or from the game itself. One player wrote about how the game took her through a section of a storyline that she didn't want to be part of: 
 
 > Nowadays in [Assassin's Creed games], when you are pulled out the Animus, it's by force. And they then sort of force you to just do a few sort of mundane actions in the real world [...] And I'm just like 'why are you making me do this? I don't want to do this, just can I go back in the Animus, please? That's why I'm interested.'
 
@@ -79,7 +92,7 @@ For competence frustration, many players described situations of *stagnation*. T
 
 #### Relatedness frustration
 
-Being \textit{disconnected from other players} arose when players had disagreements with their teammates, felt that a skill mismatch made for unequal in-game status, and---most commonly---when players were harassed by other players:
+Being *disconnected from other players* arose when players had disagreements with their teammates, felt that a skill mismatch made for unequal in-game status, and---most commonly---when players were harassed by other players:
 
 > As soon as anybody finds out you're a female gamer [in *Call of Duty*], it's sort of immediately like, you know, just preconceived jokes. [...] So it kind of makes it hard to feel included, even on your own team in those scenarios.
 
@@ -109,9 +122,8 @@ And of course, in the most serious cases, players would simply quit the game ent
 
 ## Conclusion
 
-Need frustration is a common and impactful experience in video games, and players report that it closely relates to their decisions of when to quit. In fact, one of the key hypotheses that we have coming out of this study is that the difference between "good" and "bad" frustration is the presence or absence of *need* frustration. In other words, the reason that *Dark Souls*, for example, is so frustrating but still motivating is because it isn't undermining players' sense of autonomy, competence, or relatedness---players still have the opportunity to choose where to go and how to approach an enemy, can see that they're getting better and learning enemies' attack patterns as they practice, and feel connected to the world they're in. The game is frustrating, but not need-frustrating. On the other hand, bad frustration---for example, when a game is so luck-driven that people perceive it as unfair because their actions have no effect on the outcome---*is* need-frustrating. 
+Need frustration is a common and impactful experience in video games, and players report that it closely relates to their decisions of when to quit. In fact, one of the key hypotheses that this study led us to is that the difference between "good" and "bad" frustration is the presence or absence of *need* frustration. In other words, the reason that *Dark Souls*, for example, is so frustrating but still motivating is because it isn't undermining players' sense of autonomy, competence, or relatedness---players still have the opportunity to choose where to go and how to approach an enemy, can see that they're getting better and learning enemies' attack patterns as they practice, and feel connected to the world they're in. The game is frustrating, but not need-frustrating. On the other hand, bad frustration---for example, when a game is so luck-driven that people perceive it as unfair because their actions have no effect on the outcome---*is* need-frustrating. 
 
-On a more personal note, this paper is one of the more difficult studies I've conducted, and I'm thrilled it's finally out in the world. I encourage people to go [check out the full paper](https://psyarxiv.com/zehgr/)---for non-academics, you can ignore most of the intro/method/discussion bit, and just focus on the results section with the various quotes, as that'll likely be the most interesting for you. 
-As always, if you have any comments/questions/feedback, please do reach out!
+On a more personal note, this paper is one of the more difficult studies I've conducted, and I'm thrilled it's finally out in the world. I encourage people to go [check out the full paper](https://psyarxiv.com/zehgr/)---for non-academics, you can ignore most of the intro/method/discussion bit, and just focus on the results section with the various quotes. As always, if you have any comments/questions/feedback, please do reach out!
 
 [^1]: I wrote a while back in more detail about what exactly the 3 basic needs in self-determination theory are, and perhaps more importantly, what they're *not*. [You can find that post here](https://nickballou.com/posts/sdt-in-video-games-basic-needs-misunderstandings/). 
