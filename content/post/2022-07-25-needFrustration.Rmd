@@ -52,7 +52,7 @@ Need frustration is an idea built upon a well-known and well-evidenced psycholog
 
 When these needs are *satisfied* by an activity, people tend to enjoy the things they do, do them more, and feel better after doing them. On the other hand, when they are actively *frustrated*, people tend to enjoy them less, do them less, and feel worse after doing them. 
 
-In the table below, I've given some examples of need-satisfying and need-frustrating experiences in games. We know that games are really good at satisfying needs, generally. But while we know that need-frustrating experiences are part of gaming too, we don't really know what they look like---when they occur, and how they feel when they happy. (Spoiler: the only reason I'm able to give the examples is because of the the results of the study!)
+In the table below, I've given some examples of need-satisfying and need-frustrating experiences in games. We know that games are really good at satisfying needs, generally; this is precisely why they're so intrinsically motivating. But this is not universal: at other times, games can be very frustrating and demotivating. While we know that need-frustrating experiences are part of gaming too, we don't know what they look like---when they occur, how people feel when they happen, and how they affect motivation. (Spoiler: I'm only able to give these examples because we've now done the study!)
 
 | **Need**    | **Example of satisfying experience**                                         | **Example of frustrating experience**                                     |   |
 |-------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------|---|
@@ -63,7 +63,7 @@ In the table below, I've given some examples of need-satisfying and need-frustra
 
 ## What we did
 
-We decided to address this by interviewing players about their experiences. We transcribed the interviews, and used a method called grounded theory to develop a working model of how need frustration occurred and what consequences it had for players. The goal, and indeed hardest part about using grounded theory, is to constant challenge the model and try to "break" it---in this method, you choose whom to interview one person at a time and keep updating your list of questions, so that you can generate the data that would be most likely to either enrich or contradict your ideas.
+We decided to address this by interviewing players about their experiences. We conducted and transcribed a total of 12 interviews, and used a method called grounded theory to develop a working model of how need frustration occurred and what consequences it had for players. The goal, and indeed hardest part about using grounded theory, is to constant challenge the model and try to "break" it---in this method, you choose whom to interview one person at a time and keep updating your list of questions, so that you can generate the data that would be most likely to either enrich or contradict your ideas.
 
 We interviewed a total of 12 players from 8 different countries who each played a variety of different games, and who included a variety of ages, genders, and relationships to gaming. Each interview lasted about an hour.
 
