@@ -6,7 +6,7 @@ slug: disconnection-on-twitter
 categories: []
 tags: [social media, introspection]
 subtitle: ''
-summary: ''
+summary: 'An attempt to understand why I continue to regularly use a platform whose negative effects on my mental health are obvious to me'
 authors: ["admin"]
 lastmod: '2022-10-13T15:24:47+01:00'
 featured: no
