@@ -7,7 +7,7 @@ title: Open Science Work
 view: 2
 ---
 
-We have good reason to believe that research on video games, and in the social sciences more broadly, is [not very trustworthy](https://nickballou.com/files/APathForward.pdf). Fortunately, we have equally strong reason to believe that a set of practices that fall under the term "open science" can help. 
+We have good reason to believe that research on video games, and in the social sciences more broadly, is [not very trustworthy](https://doi.org/10.31234/osf.io/fp89z). Fortunately, we have equally strong reason to believe that a set of practices that fall under the term "open science" can help. 
 
 I'm a huge believer in open science, and try to integrate its practices all throughout my work and the research communities around me. Here are some activities I am or have been involved in to advance open science:
 
