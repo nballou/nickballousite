@@ -27,7 +27,6 @@ Two crucial caveats here: 1) I fully recognize how problematic this mindset is, 
 It sounds like I'm not alone, either. A while back, Daniel Lakens [asked researchers how much time they'd like to have for learning new skills](https://twitter.com/lakens/status/1224058949994979328). The model response seemed to be approximately 1 day a week, but few people found that they were able to achieve this. My supervisor, Sebastian Deterding, described an even more grim reality in the replies (see image). How depressing is that, that our profession leaves hardly any time for even applying hard-(l)earned skills, much less learning for learning's sake?
 
 <figure>
-  <class="align-left">
   <img src="/img/lakensSkillsTweet.png" alt="A tweet from @lakens asking &quot;If you are a scientist, do you feel you have enough time in your job to learn new skills you think would improve the way you do science? If a magic wand could free up time to learn new skills that improve the science you are doing, how much time would you like to have?&quot;, followed by a reply from @dingstweets reading &quot;20% = one day a week sounds right for a profession that is supposed to be in advancing their own field. Realistically, I rarely get one day a week to exercise the skills and knowledge I currently have in doing research.&quot; " width="600"/>
   <figcaption>A depressing description of life as a senior academic.</figcaption>
 </figure>
