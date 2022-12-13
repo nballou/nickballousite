@@ -70,7 +70,6 @@
 /* Copied from https://github.com/connorrothschild/v2 */
 /* ****************************************************/
 
-$font-main: Inter;
 $font-bold: 800;
 $dark-grey: #343434;
 $light-grey: #E3E3E5;
@@ -84,48 +83,12 @@ body {
 
 /* top level font and styling*/
 h1 {
-  font-family: $font-main;
   font-weight: $font-bold;
   color: $sta-primary-dark;
 }
 
 .section-heading p {
   color: $dark-grey;
-}
-
-/* WOW! */
-@mixin bkg-img-transition( $bkg1, $bkg2, $transTime:1s ){  
-  position: relative;  
-  z-index: 100; 
-  &:before, &:after {
-    background-size: cover;  
-    content: '';    
-    display: block;
-    height: 100%;
-    position: absolute;
-    top: 0; left: 0;  
-    width: 100%;
-    background-color: black;
-    padding: 3em 0;
-    background-repeat: no-repeat;
-    background-position: center;
-  	background-size: cover;
-    transition: opacity $transTime;
-  }
-  &:before {    
-    z-index: -101;
-    background-image: url("#{$bkg1}");
-  }
-  &:after {    
-    z-index: -100;
-    opacity: 0.5;
-     background-image: url("#{bkg1}"), url("#{$bkg2}"); 
-    } 
-  &:hover {
-     &:after{
-       opacity: 0; 
-     }
-  }  
 }
 
 /* intro animation */
