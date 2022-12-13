@@ -31,9 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nick.ballou@gmail.com'
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/nbballou
+  link: https://scicomm.xyz/@nballou
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/nballou

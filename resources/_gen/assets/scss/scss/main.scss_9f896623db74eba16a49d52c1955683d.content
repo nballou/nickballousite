@@ -3269,9 +3269,9 @@ input[type="button"].btn-block {
     display: none; }
 
 .navbar-light .navbar-brand {
-  color: #fff; }
+  color: #ad5d07; }
   .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-    color: #CD967B; }
+    color: #bf874b; }
 
 .navbar-light .navbar-nav .nav-link {
   color: #fff; }
@@ -3284,7 +3284,7 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #CD967B; }
+  color: #bf874b; }
 
 .navbar-light .navbar-toggler {
   color: #fff;
@@ -3296,9 +3296,9 @@ input[type="button"].btn-block {
 .navbar-light .navbar-text {
   color: #fff; }
   .navbar-light .navbar-text a {
-    color: #CD967B; }
+    color: #bf874b; }
     .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
-      color: #CD967B; }
+      color: #bf874b; }
 
 .navbar-dark .navbar-brand {
   color: #fff; }
@@ -7348,7 +7348,7 @@ h6 {
 
 a,
 h3.article-title a:hover {
-  color: #CD967B;
+  color: #ad5d07;
   text-decoration: none;
   transition: color 0.6s ease; }
 
@@ -8191,13 +8191,13 @@ a.summary-link {
         color: #fff; }
       .navbar .navbar-nav .nav-link.active {
         font-weight: bold !important;
-        color: #CD967B !important; }
+        color: #bf874b !important; }
   .navbar .dropdown-menu {
     font-size: 13.86px; }
   .navbar .dropdown-item.active,
   .navbar .dropdown-item-active {
     font-weight: bold;
-    color: #CD967B !important; }
+    color: #bf874b !important; }
 
 .dark .navbar {
   background: #0E182E;
@@ -8987,7 +8987,7 @@ html[dir='rtl'] body {
   color: #000; }
 
 .home-section.light a {
-  color: #CD967B; }
+  color: #ad5d07; }
 
 .home-section.dark a {
   color: #F3B26D; }
@@ -9649,6 +9649,9 @@ div.chart {
   100% {
     opacity: 1; } }
 
+.h3 {
+  color: red; }
+
 .btn-download::before {
   font-family: fontAwesome;
   content: "\f019\00a0"; }
@@ -9657,11 +9660,15 @@ div.chart {
   pointer-events: none;
   cursor: default; }
 
-/* Copied from https://github.com/connorrothschild/v2 */
-/* icons */
-#profile .network-icon li a {
-  color: white !important; }
+.article-container {
+  max-width: 850px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  font-size: 18px; }
 
+/* ****************************************************/
+/* Copied from https://github.com/connorrothschild/v2 */
+/* ****************************************************/
 /* background color for body */
 body {
   background-color: white; }
@@ -9686,27 +9693,19 @@ h1 {
   animation: fade-in 2s forwards;
   animation-delay: 1.4s; }
 
-#profile {
-  color: white !important; }
-  #profile h1 {
-    font-size: 4rem;
-    color: white !important; }
-  #profile h2 {
-    font-size: 2.5rem; }
-  #profile .avatar-circle {
-    opacity: 0;
-    position: relative;
-    right: -300px;
-    -webkit-animation: slide-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-    animation: slide-left 2s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards; }
-  #profile .portrait-title {
-    opacity: 0;
-    position: relative;
-    left: -1000px;
-    -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-    animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
-    #profile .portrait-title h2 {
-      color: white !important; }
+#profile .avatar-circle {
+  opacity: 0;
+  position: relative;
+  right: -300px;
+  -webkit-animation: slide-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-left 2s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards; }
+
+#profile .portrait-title {
+  opacity: 0;
+  position: relative;
+  left: -1000px;
+  -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards; }
 
 @-webkit-keyframes slide-right {
   100% {
@@ -9727,39 +9726,40 @@ h1 {
   100% {
     right: 0;
     opacity: 1; } }
-  #profile .network-icon {
-    margin-top: 15px;
-    padding: 5px; }
-    #profile .network-icon .fa-envelope {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-      animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.3s;
-      animation-delay: 1.3s; }
-    #profile .network-icon .fa-twitter {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-      animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.4s;
-      animation-delay: 1.4s; }
-    #profile .network-icon .fa-linkedin {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-      animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.5s;
-      animation-delay: 1.5s; }
-    #profile .network-icon .fa-playstation {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-      animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.6s;
-      animation-delay: 1.6s; }
-    #profile .network-icon .fa-github {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-      animation: grow 2s ease forwards;
-      -webkit-animation-delay: 2s;
-      animation-delay: 2s; }
+
+#profile .network-icon {
+  margin-top: 15px;
+  padding: 5px; }
+  #profile .network-icon .fa-envelope {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.3s;
+    animation-delay: 1.3s; }
+  #profile .network-icon .fa-mastodon {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.4s;
+    animation-delay: 1.4s; }
+  #profile .network-icon .fa-linkedin {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s; }
+  #profile .network-icon .fa-playstation {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.6s;
+    animation-delay: 1.6s; }
+  #profile .network-icon .fa-github {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+    animation: grow 2s ease forwards;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s; }
 
 @-webkit-keyframes grow {
   100% {
@@ -9782,15 +9782,9 @@ h1 {
   color: black;
   border-color: black; }
 
-/* toolbar */
-.navbar .navbar-nav .nav-link.active {
-  color: black !important; }
-
 /* link styling */
 .card-text p a, .powered-by a {
-  text-decoration: none;
-  padding: 3px;
-  border-radius: 3px; }
+  text-decoration: none; }
 
 /* awards and experience cards */
 .card.experience.course.card-title {
@@ -9900,5 +9894,8 @@ h1 {
 /* article styling */
 .article p a {
   text-decoration: none;
-  padding: 3px;
+  padding: 1.5px;
   border-radius: 3px; }
+
+.article .dark h1, .article h2, .article h3, .article h4 {
+  color: #E97149; }

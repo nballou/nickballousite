@@ -10,18 +10,7 @@ image:
   caption: ''
   focal_point: ''
 summary: Some thoughts on the strange, oft-discussed beast that is imposter syndrome. 
-readingTime:
-  one: One minute to read
-  other: '{{.Count}} minutes to read'
 ---
-<style>
-body {
-  text-align: justify;
-}
-h1, h2, h3, h4, h5, h6 {
-  text-align: left;
-}
-</style>
 
 After some significant struggles with my own mental health, I am quite empathetic to the struggles of others. 
 

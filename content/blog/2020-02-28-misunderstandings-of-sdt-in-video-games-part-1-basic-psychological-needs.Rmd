@@ -2,6 +2,7 @@
 title: 'Self-determination theory in Video Games: Misconceptions about Basic Psychological Needs'
 author: ["admin"]
 date: '2020-02-28'
+lastmod: '2020-04-01'
 slug: sdt-in-video-games-basic-needs-misunderstandings
 categories: []
 tags: []
@@ -13,15 +14,6 @@ aliases:
   - /posts/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
 toc: true
 ---
-
-<style>
-body {
-  text-align: justify;
-}
-h1, h2, h3, h4, h5, h6 {
-  text-align: left;
-}
-</style>
 
 Many researchers and games industry professionals may be familiar with the “Player Experience of Need Satisfaction” (PENS)<sup>1</sup> model as a way of understanding why video games are so incredibly motivating. If you aren’t, I hope this will be a decent primer. Those of you who *are* familiar with it, however, should especially stick around, because there’s a chance that some of what you’ve learned is incomplete or possibly outright incorrect.
 

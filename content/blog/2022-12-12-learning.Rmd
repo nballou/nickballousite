@@ -2,7 +2,7 @@
 title: "Losing the battle between productivity and learning for learning's sake"
 author: ["admin"]
 date: '2022-12-12'
-lastupdated: '2022-12-13'
+lastmod: '2022-12-13'
 slug: no-time-for-learning
 categories: []
 tags: []
@@ -10,16 +10,10 @@ summary: "Some reflections and strategies for spending less time doing, and more
 subtitle: "Some reflections and strategies for spending less time doing, and more time learning---or at least doing both at the same time."
 smartDashes: true
 toc: true
+aliases:
+  - /posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
+  - /post/no-time-for-learning/
 ---
-
-<style>
-body {
-  text-align: justify;
-}
-h1, h2, h3, h4, h5, h6 {
-  text-align: left;
-}
-</style>
 
 One of my biggest regrets of my PhD has been transitioning too quickly from a mentality focused on learning, to one focused on outputs. Once I published my first paper and realized "oh, I can do this", suddenly everything that wasn't in service of an upcoming publication or similar output started to feel like at best a distraction, and at worst a waste of time. In fact, my outlooks has deteriorated to the extent that learning new research-related things sometimes feels like a hobby rather than an integral part of my work. (You'll catch me on weekends listening to [Quantitude](https://quantitudepod.org), a highly pedagogical podcast about quantitative methods---to be fair, they do spend half of each episode making dad jokes, but I can safely say I've learned as much from them as I have from any stats textbook).
 

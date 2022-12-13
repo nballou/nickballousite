@@ -43,6 +43,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  blog: '/blog/:slug'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -81,5 +82,9 @@ sitemap:
 cascade:
   - _target:
       path: /post/**
+    share: false
+  - _target:
       path: /publication/**
     share: false
+
+lastmod: [":fileModTime", “:default”]

@@ -20,7 +20,7 @@
       {{ $0date = $page.Date | time.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}
     {{ end }}
-  Published {{ $0date }} 
+  Posted {{ $0date }} 
   </span>
   
   <span class="article-date">
@@ -30,7 +30,7 @@
     {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
           <span class="middot-divider"></span>
-         {{ i18n "last_updated" }}
+         Last updated
          {{ $date }}
       {{ end }}
     {{ end }}
@@ -48,7 +48,7 @@
   </span>
   {{ end }}
 
-  {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
+  {{ if and (eq $page.Type "blog") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
   <span class="article-reading-time">
     {{ $page.ReadingTime }} {{ i18n "minute_read" }}

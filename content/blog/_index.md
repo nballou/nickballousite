@@ -2,6 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Posts
+title: Blog
 view: 2
+aliases: [/post/]
 ---

@@ -15,8 +15,8 @@ main:
   - name: Open Research
     url: '/openResearch/'
     weight: 50
-  - name: Posts
-    url: '/post/'
+  - name: Blog
+    url: '/blog/'
     weight: 60
   - name: Resume/CV
     url: '/files/cv.pdf'
