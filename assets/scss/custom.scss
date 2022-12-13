@@ -1,3 +1,5 @@
+/* My own custom stuff */
+
 @keyframes slide-from-right {
   0% {
     transform: translateX(150%);
@@ -37,19 +39,373 @@
 .btn-download::before {
   font-family: fontAwesome;
   content: "\f019\00a0";
-}    
+}  
 
-#profile {
-  animation: slide-from-left 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
-  animation-delay: 100ms;
+.background-img {
+    pointer-events: none;
+    cursor: default;
 }
+
+
+/* Copied from https://github.com/connorrothschild/v2 */
+
+$font-main: Inter;
+$font-bold: 800;
+$dark-grey: #343434;
+$light-grey: #E3E3E5;
+$sta-primary-dark: black;
+$sta-primary-light: grey;
+
+/* icons */
+#profile {
+  .network-icon {
+    li {
+      a { color: white !important;}
+    }
+  }
+}
+
+/* background color for body */
+body {
+  background-color: white;
+}
+
+/* top level font and styling*/
+h1 {
+  font-family: $font-main;
+  font-weight: $font-bold;
+  color: $sta-primary-dark;
+}
+
+.section-heading p {
+  color: $dark-grey;
+}
+
+/* WOW! */
+@mixin bkg-img-transition( $bkg1, $bkg2, $transTime:1s ){  
+  position: relative;  
+  z-index: 100; 
+  &:before, &:after {
+    background-size: cover;  
+    content: '';    
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0; left: 0;  
+    width: 100%;
+    background-color: black;
+    padding: 3em 0;
+    background-repeat: no-repeat;
+    background-position: center;
+  	background-size: cover;
+    transition: opacity $transTime;
+  }
+  &:before {    
+    z-index: -101;
+    background-image: url("#{$bkg1}");
+  }
+  &:after {    
+    z-index: -100;
+    opacity: 0.5;
+     background-image: url("#{bkg1}"), url("#{$bkg2}"); 
+    } 
+  &:hover {
+     &:after{
+       opacity: 0; 
+     }
+  }  
+}
+
+/* intro animation */
 
 .main-content {
   animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
-  animation-delay: 100ms;
+  animation-delay: 0ms;
 }
 
 .btn-download {
-  animation: slide-from-far-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
-  animation-delay: 100ms;
+  opacity: 0;
+  animation: fade-in 2s forwards;
+  animation-delay: 1.4s;
+}
+
+#profile {
+
+  color: white !important;
+  
+  h1 {
+    font-size: 4rem;
+    color: white !important;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+  }
+  
+  
+  .avatar-circle {
+  opacity: 0;
+  position: relative;
+  right: -300px;
+  -webkit-animation: slide-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-left 2s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
+
+  .portrait-title {
+    opacity: 0;
+    position: relative;
+    left: -1000px;
+    -webkit-animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    animation: slide-right 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    
+    h2 {
+      color: white !important;
+    }
+  }
+  
+  @-webkit-keyframes slide-right {
+      100% { left: 0; opacity: 1}
+  }
+  
+  @keyframes slide-right {
+      100% { left: 0; opacity: 1; }
+  }
+  
+  @-webkit-keyframes slide-left {
+      100% { right: 0; opacity: 1; }
+  }
+  
+  @keyframes slide-left {
+      100% { right: 0; opacity: 1; }
+  }
+  
+  .network-icon {
+    
+    margin-top: 15px;
+    padding: 5px;
+    
+    .fa-envelope {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.3s;
+              animation-delay: 1.3s;
+    }
+    
+    .fa-twitter {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.4s;
+              animation-delay: 1.4s;
+    }
+    
+    .fa-linkedin {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.5s;
+              animation-delay: 1.5s;
+    }
+    
+    .fa-playstation {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.6s;
+              animation-delay: 1.6s;
+    }
+    
+    .fa-github {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 2s;
+              animation-delay: 2s;
+    }
+    
+    @-webkit-keyframes grow {
+        100% { opacity: 1; }
+    }
+    
+    @keyframes grow {
+        100% { opacity: 1; }
+    } 
+  }
+}
+
+/* buttons */
+.btn-toolbar .btn.active  {
+  -webkit-box-shadow: 3px 3px 0 0 white !important;
+          box-shadow: 3px 3px 0 0 white !important;
+}
+
+.btn-links .btn {
+  padding: .3rem;
+}
+
+.btn-links .btn:hover {
+  padding: .3rem;
+  color: $sta-primary-dark;
+  border-color: $sta-primary-dark;
+}
+
+/* toolbar */
+.navbar .navbar-nav .nav-link.active {
+  color: $sta-primary-dark !important;
+}
+
+/* link styling */
+.card-text p a, .powered-by a {
+  text-decoration: none;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+
+/* awards and experience cards */
+.card.experience.course.card-title {
+  font-size: 1rem;
+}
+
+.card-subtitle.my-0.article-metadata,
+.card .text-muted.exp-meta {
+  font-size: .8rem;
+  letter-spacing: 0 !important;
+}
+
+.course .card-body .card-text,
+.experience .card-body .card-text {
+  padding: .8rem 0.5rem .8rem 0 !important;
+}
+
+/* scrolling animation */
+.mouse {
+  width: 150px;
+  
+}
+
+.mouse-icon {
+   width: 25px;
+   height: 33px;
+   border: 3px solid white;
+   border-radius: 15px;
+   cursor: pointer;
+   display: inline-block;
+   text-align: center;
+}
+
+.mouse-wheel {
+  height: 6px;
+  margin: 3px auto 0;
+  display: block;
+  width: 3px;
+  background-color: white;
+  border-radius: 50%;
+  -webkit-animation: 1.6s ease infinite wheel-up-down;
+  -moz-animation: 1.6s ease infinite wheel-up-down;
+  animation: 1.6s ease infinite wheel-up-down;
+}
+
+//add images to experience cards
+.flex-w-experience-image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.flex-w-experience-text {
+  display: flex;
+  flex-direction: column;
+}
+.experience-image {
+  max-width: 60px;
+  margin-right: 10px;
+}
+
+@-webkit-keyframes wheel-up-down {
+	0% {
+	    margin-top: 2px;
+	    opacity: 0;
+	}
+	30% {
+	    opacity: 1;
+	}
+	100% {
+	    margin-top: 10px;
+	    opacity: 0;
+	}
+}
+@-moz-keyframes wheel-up-down {
+	0% {
+	    margin-top: 2px;
+	    opacity: 0;
+	}
+	30% {
+	    opacity: 1;
+	}
+	100% {
+	    margin-top: 10px;
+	    opacity: 0;
+	}
+}
+@keyframes wheel-up-down {
+	0% {
+	    margin-top: 2px;
+	    opacity: 0;
+	}
+	30% {
+	    opacity: 1;
+	}
+	100% {
+	    margin-top: 10px;
+	    opacity: 0;
+	}
+}
+
+//custom css for awards
+#accomplishments {
+  .margin-top {
+    margin-top: 20px;
+  }
+  .vertical-center {
+    justify-content: center;
+  }
+  .card-title {
+    font-size: 1.4rem;
+  }
+  .card-subtitle {
+    font-size: 1.2rem;
+  }
+  .card {
+
+    .init-hidden {
+        p {
+          max-height: 0;
+          transition: max-height 1s ease-out;
+          overflow: hidden;
+          margin-bottom: 0 !important;
+        }
+        
+        &.card-text {
+          padding: 0 !important;
+        }
+      }
+    
+    &:hover {
+    .init-hidden p {
+      max-height: 1000px;
+      transition: max-height 1s ease-in;
+    }
+  }
+}
+}
+
+/* article styling */
+.article {
+  p a {
+  text-decoration: none;
+  padding: 3px;
+  border-radius: 3px;
+}
+
 }

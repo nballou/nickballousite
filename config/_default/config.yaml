@@ -72,3 +72,14 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
+  
+############################
+## CUSTOM
+############################
+
+cascade:
+  - _target:
+      path: /post/**
+      path: /publication/**
+    share: false
