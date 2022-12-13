@@ -7,9 +7,11 @@ title: "Open research: why it matters, and how I try to support it"
 view: 2
 ---
 
-## What is open research, and why is it important??
+## What is open research, and why is it important?
 
-Open Research (aka Open Science or Open Scholarship) refers to a movement to make the research process *transparent*, *trustworthy*, and *openly accessible* to all levels of society. Traditional research has relied heavily on trust---we trust authors that the data they describe really exist, that they've reported all the analyses they did without omitting inconvenient results, that their hypotheses were derived before looking at the data, and so on. Unfortunately, we have good reason to believe that this trust is [regularly abused](https://www.cmu.edu/dietrich/sds/docs/loewenstein/MeasPrevalQuestTruthTelling.pdf), mostly by people with good intentions who have learned problematic research practices from earlier generations, and also occasionally by bad actors. Research on video games, and in the social sciences more broadly, is simply [not very trustworthy](https://doi.org/10.31234/osf.io/fp89z). 
+Open Research (aka Open Science or Open Scholarship) refers to a movement to make the research process *transparent*, *trustworthy*, and *openly accessible* to all levels of society. Traditional research has relied heavily on trust---we trust authors that the data they describe really exist, that they've reported all analyses they did without omitting inconvenient results, that their hypotheses were derived before looking at the data, and so on. 
+
+Unfortunately, we have good reason to believe that this trust is [regularly exploited](https://www.cmu.edu/dietrich/sds/docs/loewenstein/MeasPrevalQuestTruthTelling.pdf), mostly by people with good intentions who have learned problematic research practices from earlier generations or simply need to survive in a precarious career path, but also occasionally by bad actors. Research on video games, and in the social sciences more broadly, is simply [not very trustworthy](https://doi.org/10.31234/osf.io/fp89z).
 
 Fortunately, we have equally strong reason to believe that the [set of practices promoted by the open research movement](https://www.nature.com/articles/s41562-016-0021) can help. Such practices include *preregistration* (specifying one's method and analysis plan in advance, to prevent undisclosed [p-hacking](https://www.wired.com/story/were-all-p-hacking-now/)), *open data* (making the data underlying one's paper publicly available for inspection and future reuse), and *open peer review* (making [anonymous] peer review reports available alongside the paper to hold journals and reviewers accountable for the quality of their assessments), among others (see image).
 

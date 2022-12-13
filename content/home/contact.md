@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: nick.ballou@gmail.com
+  email: nick@nickballou.com
   phone: +44 7367 525567
   contact_links:
     - icon: twitter

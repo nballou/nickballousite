@@ -60,9 +60,10 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
-  startLevel: 1 
-  endLevel: 4
-  ordered: false 
+  tableofcontents:
+    startLevel: 1 
+    endLevel: 4
+    ordered: false 
 related:
   threshold: 80
   includeNewer: true

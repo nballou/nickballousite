@@ -14,7 +14,7 @@ education:
    institution: Tulane University
    year: 2016
 
-email: "nick.ballou@gmail.com"
+email: "nick@nickballou.com"
 interests:
 - Video game play
 - Self-report vs "digital trace" play measures
@@ -30,7 +30,7 @@ role: Psychology of Video Games PhD Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nick.ballou@gmail.com'
+  link: 'mailto:nick@nickballou.com'
 - icon: mastodon
   icon_pack: fab
   link: https://scicomm.xyz/@nballou
