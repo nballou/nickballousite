@@ -9664,7 +9664,13 @@ div.chart {
   max-width: 850px;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
-  font-size: 18px; }
+  font-size: 18px;
+  text-align: justify; }
+
+.docs-toc {
+  text-align: left; }
+  .docs-toc h1, .docs-toc h2, .docs-toc h3, .docs-toc h4, .docs-toc h5, .docs-toc p, .docs-toc a {
+    color: red; }
 
 /* ****************************************************/
 /* Copied from https://github.com/connorrothschild/v2 */
@@ -9693,7 +9699,9 @@ h1 {
   animation: fade-in 2s forwards;
   animation-delay: 1.4s; }
 
-#profile .avatar-circle {
+#profile .avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
   opacity: 0;
   position: relative;
   right: -300px;

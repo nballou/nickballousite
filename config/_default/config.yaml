@@ -60,6 +60,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  startLevel: 1 
+  endLevel: 4
+  ordered: false 
 related:
   threshold: 80
   includeNewer: true
@@ -81,7 +84,7 @@ sitemap:
 
 cascade:
   - _target:
-      path: /post/**
+      path: /blog/**
     share: false
   - _target:
       path: /publication/**

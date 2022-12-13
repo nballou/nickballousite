@@ -55,6 +55,15 @@
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
   font-size: 18px;
+  text-align: justify;
+}
+
+.docs-toc {
+  text-align: left;
+  
+  h1, h2, h3, h4, h5, p, a {
+    color: red;
+  }  
 }
 
 /* ****************************************************/
@@ -135,7 +144,9 @@ h1 {
 #profile {
   
   
-  .avatar-circle {
+  .avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
   opacity: 0;
   position: relative;
   right: -300px;
