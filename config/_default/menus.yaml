@@ -12,8 +12,8 @@ main:
   - name: Publications
     url: '/publication/'
     weight: 40
-  - name: Open Science
-    url: '/openScience/'
+  - name: Open Research
+    url: '/openResearch/'
     weight: 50
   - name: Posts
     url: '/post/'
