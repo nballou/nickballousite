@@ -92,12 +92,12 @@
   <div class="vertical-center", align="justify">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}<h1 class="biography-title">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
 
    <div class="article-style">
-      {{ $person_page.Content }}
-      <a class="btn btn-outline-primary btn-page-header" href="files/cv.pdf" target="_blank" rel="noopener">CV</a>
+      <div class="main-content">{{ $person_page.Content }}</div>
+      <a class="btn btn-outline-primary btn-page-header btn-download" href="files/cv.pdf" target="_blank" rel="noopener">CV</a>
     </div>
 
   </div>
