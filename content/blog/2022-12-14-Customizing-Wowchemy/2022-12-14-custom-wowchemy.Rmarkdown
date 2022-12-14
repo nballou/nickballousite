@@ -4,13 +4,17 @@ author: ["admin"]
 date: '2022-12-14'
 lastmod: '2022-12-14'
 slug: custom-wowchemy
+draft: true
 categories: []
 tags: []
 summary: "Notes from far too long spent googling around for tips on customizing this Wowchemy site"
 subtitle: "Notes from far too long spent googling around for tips on customizing this Wowchemy site"
 smartDashes: true
 toc: true
+commentable: true
 ---
+
+[Oops, I pushed this blog post long before it was finished and can't be bothered ]
 
 It's undeniably great that blogdown/Hugo Academic (now Wowchemy) have made creating a professional website so accessible, but there is a notable downside: it becomes really hard to make your own stand out. 
 
@@ -60,8 +64,25 @@ Ultimately, I borrowed code from the [old version of his website](https://github
 
 The relevant bits of the code for mine, which live in `assets/scss/custom.scss` (you'll need to create this folder/file if you don't have it already, see Connor's blogpost for more details), are the following:
 
-```{css}
+```{css, echo=FALSE}
 
+pre {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+pre[class] {
+  max-height: 300px;
+}
+
+.scroll-100 {
+  max-height: 300px;
+  overflow-y: auto;
+  background-color: inherit;
+
+```
+
+```{css, class.output="scroll-100"}
 /* Animate text coming from right */ 
 .main-content {
   animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
@@ -185,6 +206,24 @@ Look, I'm not kidding myself that my blog posts are going to have a ton of tract
 
 https://zhauniarovich.com/post/2021/2021-06-giscus/
 
+I primarily followed this tutorial on how to set up giscus, but I needed to gid into the commit history to find [this post](https://github.com/wowchemy/wowchemy-hugo-themes/pull/2830) with the updated partial code. For my version of Wowchemy, the `giscus.html` file inside layouts/partials/comments` should therefore be: 
+
+```{html}
+{{ if site.Params.features.comment.giscus }}
+<script src="https://giscus.app/client.js"
+        data-repo="{{site.Params.features.comment.giscus.repo}}"
+        data-repo-id="{{site.Params.features.comment.giscus.repo_id}}"
+        data-category="{{site.Params.features.comment.giscus.category}}"
+        data-category-id="{{site.Params.features.comment.giscus.category_id}}"
+        data-mapping="{{site.Params.features.comment.giscus.mapping}}"
+        data-reactions-enabled="{{site.Params.features.comment.giscus.reactions_enabled}}"
+        data-theme="{{site.Params.features.comment.giscus.theme}}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>Please enable JavaScript to view the comments powered by giscus.</noscript>
+{{ end }}
+```
 
 
 ## Add custom email address
