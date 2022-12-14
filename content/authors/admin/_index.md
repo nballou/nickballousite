@@ -39,7 +39,7 @@ social:
   link: https://linkedin.com/in/nballou
 - icon: playstation
   icon_pack: fab
-  link: https://psnprofiles.com/nbballou?order=percent
+  link: https://psnprofiles.com/nbballou?order=last-trophy
 
 superuser: true
 user_groups:
