@@ -77,12 +77,16 @@ features:
     gravatar: false
     shape: square
   comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
+    provider: 'giscus'
+    commentable: {page = true, post = true, blog = true, docs = false, project = false, publication = true, talk = false}
+    giscus:
+      repo: 'nballou/giscus'
+      repo_id: 'R_kgDOInYdlg'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOInYdls4CTEjO'
+      label: 'comment'
+      theme: preferred_color_scheme
+      reactions_enabled: 0
   search:
     provider: wowchemy
     algolia:

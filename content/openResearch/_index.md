@@ -1,5 +1,5 @@
 ---
-type: "page"
+type: "post"
 header:
   caption: ""
   image: ""

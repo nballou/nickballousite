@@ -34,7 +34,7 @@ blockquote {
 
 ## Introduction
 
-**Note**: The contents of this blog post are available in even further abbreviated form by checking out the [slides I used to present this paper](https://nickballou.com/files/iggiCon22_needFrustration.pptx) at the 2022 IGGI Conference.
+\[**Note**: The contents of this blog post are available in even further abbreviated form by checking out the [slides I used to present this paper](https://nickballou.com/files/iggiCon22_needFrustration.pptx) at the 2022 IGGI Conference.\]
 
 After over a year of painstaking progress, I've finally completed a study about certain types of frustrating experiences in games, and how they affect players' experience and behavior. The full paper is available [on PsyArXiv as a preprint](https://psyarxiv.com/zehgr/) while it undergoes peer review, but in the meantime I wanted to make a shorter summary available as a blog post.
 

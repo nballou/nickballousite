@@ -18,7 +18,7 @@ main:
   - name: Blog
     url: '/blog/'
     weight: 60
-  - name: Resume/CV
+  - name: CV
     url: '/files/cv.pdf'
     weight: 70
   
@@ -39,7 +39,7 @@ main:
     url: '#publications'
     parent: " "
     weight: 70  
-  - name: Recent Posts
+  - name: Recent Blog Posts
     url: '#posts'
     parent: " "
     weight: 80

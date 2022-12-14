@@ -36,10 +36,6 @@
   }
 }
 
-.h3 {
-  color: red;
-}
-
 .btn-download::before {
   font-family: fontAwesome;
   content: "\f019\00a0";
@@ -60,36 +56,13 @@
 
 .docs-toc {
   text-align: left;
-  
-  h1, h2, h3, h4, h5, p, a {
-    color: red;
-  }  
 }
 
 /* ****************************************************/
 /* Copied from https://github.com/connorrothschild/v2 */
 /* ****************************************************/
 
-$font-bold: 800;
-$dark-grey: #343434;
-$light-grey: #E3E3E5;
-$sta-primary-dark: black;
-$sta-primary-light: grey;
 
-/* background color for body */
-body {
-  background-color: white;
-}
-
-/* top level font and styling*/
-h1 {
-  font-weight: $font-bold;
-  color: $sta-primary-dark;
-}
-
-.section-heading p {
-  color: $dark-grey;
-}
 
 /* intro animation */
 
@@ -105,7 +78,6 @@ h1 {
 }
 
 #profile {
-  
   
   .avatar-square {
   -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
@@ -177,14 +149,6 @@ h1 {
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.6s;
               animation-delay: 1.6s;
-    }
-    
-    .fa-github {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
-      -webkit-animation-delay: 2s;
-              animation-delay: 2s;
     }
     
     @-webkit-keyframes grow {
