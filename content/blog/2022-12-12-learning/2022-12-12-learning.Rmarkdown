@@ -10,6 +10,7 @@ summary: "Some reflections and strategies for spending less time doing, and more
 subtitle: "Some reflections and strategies for spending less time doing, and more time learning---or at least doing both at the same time."
 smartDashes: true
 toc: true
+commentable: true
 aliases:
   - /posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
   - /post/no-time-for-learning/
