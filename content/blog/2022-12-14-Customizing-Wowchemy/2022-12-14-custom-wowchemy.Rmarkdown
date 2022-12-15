@@ -74,6 +74,7 @@ If you master these four strategies for customizing your website, you'll have th
 - The basics of predefined parameters: [Dan Quintana's blog post on creating your website](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
 - Getting to grips with `custom.scss`: [Connor Rothschild's blog post](https://www.connorrothschild.com/post/animate-hugo-academic)
 - Understanding how partials work: noisyoscillator's [post on customizing Hugo websites](https://hackmd.io/@noisyoscillator/hugo-academic-customizations#i18n); Yorkyard's [getting started with Hugo partials](https://www.yockyard.com/post/getting-started-with-hugo-partials/)
+- [Setting up a Blogdown site from scratch](https://www.mark-druffel.com/2022/building-blogdown-site), with lots of custom tweaks, by Mark Druffel
 
 # Changes on my site
 
