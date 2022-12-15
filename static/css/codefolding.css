@@ -18,7 +18,6 @@
   font-weight: 600;
 }
 
-
 .r-code-collapse {
   border: none;
 }
@@ -27,17 +26,24 @@
 /* Main show/hide button */
 #code-folding-buttons {
   float: right;
-}
-
-.btn-sm {
   background: #E9B578;
   border: 0;
+  color: black;
+}
+
+.btn.btn-sm, .btn-group-sm > .btn {
+  padding: 5px 0.4rem;
+  color: black;
+  background: #E9B578;
+  border: 0;
+  box-shadow: 0 0 3px gray;
 }
 
 #code-folding-buttons .dropdown-menu {
     min-width: 80px;
     padding: 5px 0;
     margin: 2px 0 0;
-    font-size: 14px;
+    font-size: 16px;
+    color:black;
 }
 
