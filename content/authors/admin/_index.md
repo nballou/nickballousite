@@ -16,12 +16,12 @@ education:
 
 email: "nick@nickballou.com"
 interests:
-- Video game play
-- Self-report vs "digital trace" play measures
+- Video games
+- Digital trace data
+- Open research
 - Dysregulated (disordered) gaming
 - Self-determination theory
-- Psychometrics
-- Open research
+- Intensive longitudinal methods
 name: Nick Ballou
 organizations:
 - name: "Queen Mary University of London, Intelligent Games and Game Intelligence Program"
@@ -46,7 +46,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br ></br > Hello! I'm a PhD researcher at Queen Mary University of London studying well-being and video gaming, with regard to both quantity and quality of play. 
+</br ></br ></br > Hello! I'm a PhD researcher studying well-being and video gaming, with regard to both quantity and quality of play. 
 
 A primary goal of my work is to make psychological research on games more rigorous and trustworthy. I'm deeply involved in [open science](https://nickballou.com/openscience) advocacy, training, and meta-scientific research. I serve on the QMUL Research Integrity Committee and as the Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org).
 

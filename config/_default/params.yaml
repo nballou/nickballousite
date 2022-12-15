@@ -61,6 +61,8 @@ locale:
 
 features:
   syntax_highlighter:
+    theme_light: igor
+    theme_dark: nord
     enable: true
     extra_languages:
       - r
@@ -114,4 +116,15 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-plugins_css: ["custom"]
+plugins_css: ["custom","codefolding"]
+
+############################
+## Code folding
+############################
+
+# Set to true to disable code folding
+disable_codefolding: false
+# Set to true to show all by default, false to hide all by default
+codefolding_show: true
+# Set to true to exclude the "Show/hide all" button
+codefolding_nobutton: false
