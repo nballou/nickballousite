@@ -124,7 +124,7 @@ plugins_css: ["custom","codefolding"]
 
 # Set to true to disable code folding
 disable_codefolding: false
-# Set to true to show all by default, false to hide all by default
-codefolding_show: true
+# Set to show to show all by default, hide to hide all by default - don't put inside quotes
+codefolding_show: show
 # Set to true to exclude the "Show/hide all" button
 codefolding_nobutton: false

@@ -9694,12 +9694,28 @@ div.chart {
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); }
+  .article li {
+    text-align: left; }
 
 h2, h3 {
   margin-top: 1em;
   margin-bottom: .4em; }
 
-/* Attempting to get code folding to work */
+.btn-copy-code {
+  color: black;
+  margin-bottom: 10px;
+  height: 25px;
+  width: 9%;
+  padding: 6px;
+  font-size: .75rem;
+  font-weight: 400;
+  background: #E9B578;
+  border: 0; }
+
+.btn-copy-code::before {
+  font-family: fontAwesome;
+  content: "\f0c5\00a0"; }
+
 .content-widget-hr .avatar-square {
   -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
   clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%); }

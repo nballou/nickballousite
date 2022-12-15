@@ -4,7 +4,6 @@ author: ["admin"]
 date: '2022-12-14'
 lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
 slug: custom-wowchemy
-draft: true
 categories: []
 tags: []
 summary: "Notes from far too long spent googling around for tips on customizing this Wowchemy site"
@@ -12,6 +11,7 @@ subtitle: "Notes from far too long spent googling around for tips on customizing
 smartDashes: true
 toc: true
 commentable: true
+codefolding_show: show
 ---
 
 ```{css, echo=FALSE}
@@ -405,8 +405,8 @@ I followed Mark Druffel's post most closely (although all three were helpful)---
 
 1. In `codefolding.js`, available from [James Pustejovsky here](https://github.com/jepusto/jepusto.com/blob/main/static/js/codefolding.js) and referenced in Mark's post, I changed L19 from `var rCodeBlocks = $('pre.sourceCode, pre.r, pre.python, pre.bash, pre.sql, pre.cpp, pre.stan, pre.js');` to `var rCodeBlocks = $('pre.chroma');`---Wowchemy appears to have restructured code blocks to all share a high-level class regardless of language, derived from the Syntax highlighter Chroma
 2. I added the primary lines of code (see chunk below) to the top of `layouts/partials/page_footer.html`, a partial that we know will be loaded on all pages
-  + Make sure that the jQuery version number matches the one that you download, and make sure the downloaded jQuery file in your `static/js` folder is not the two-liner they give you when you select it on the [jQuery website](https://releases.jquery.com), but the raw text from the url that two-liner points you to
-3. I decided to keep the options features, but in `params.yaml`, instead of setting `coldfolding_show` to `"show"` or `"hide"` as directed by the authors and the comments, I needed to set this to either `true` (to show chunks by default) or `false` (to hide them by default).
+    + Make sure that the jQuery version number matches the one that you download, and make sure the downloaded jQuery file in your `static/js` folder is not the two-liner they give you when you select it on the [jQuery website](https://releases.jquery.com), but the raw text from the url that two-liner points you to
+3. I decided to keep the config options, but lost about an hour to a really dumb mistake - in `params.yaml`, make sure to set `coldfolding_show` to either `show` or `hide` *without quotes* - all kinds of weird behavior occurs if you include quotes
   
 The relevant code inserted at the top of the `page_footer.html` partial is:
 
@@ -452,4 +452,6 @@ Instead, I decided to use [Zoho](https://www.zoho.com/en-uk/), which for £11/ye
 
 # Conclusion
 
-Those are the little tweaks I made to spice up my website, and I hope I can help someone else spend less time banging their head against the wall than I did in order to get there. What other alterations have you made to your Hugo/Wowchemy site? Feel free to let me know in the comments---after all, we wouldn't want the effort of setting those up to go to waste!
+Those are the little tweaks I made to spice up my website, and I hope I can help someone else spend less time banging their head against the wall than I did in order to get there. Again, all code for my website is available on [Github](https://github.com/nballou/nickballousite), so feel free to poke around/copy/etc.
+
+What other alterations have you made to your Hugo/Wowchemy site? Feel free to let me know in the comments---after all, we wouldn't want the effort of setting those up to go to waste!
