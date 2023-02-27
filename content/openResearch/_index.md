@@ -28,7 +28,7 @@ Together, open research practices help research live up to the level of trustwor
 Here are some activities I've been involved in as part of my ongoing quest to advance open research:
 
 - **Reproducibility**
-  - Sharing open data, materials, and code in all my work, both quantitative (e.g., [this scale validation paper](https://osf.io/6gmw2/)) and qualitative (e.g., [this grounded theory paper](https://osf.io/mwpqc/?view_only=dfe56f8107c74a7284ba61c0dc571885) about the role of frustration in video games)
+  - Sharing open data, materials, and code in all my work, both quantitative (e.g., [this scale validation paper](https://osf.io/vp7ye/)) and qualitative (e.g., [this grounded theory paper](https://osf.io/mwpqc/?view_only=dfe56f8107c74a7284ba61c0dc571885) about the role of frustration in video games)
   - Writing fully reproducible manuscripts in R Markdown ([e.g., this paper on dysregulated gaming scales](https://osf.io/h9kmv/))
   - Sharing [simulated synthetic data](https://osf.io/gvdf4/) when ethical barriers prevented sharing of raw data
 - **Study planning**
