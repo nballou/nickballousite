@@ -34,7 +34,7 @@ Here are some activities I've been involved in as part of my ongoing quest to ad
 - **Study planning**
   - Preregistering both quantitative and qualitative research ([e.g., this mixed-methods paper](https://osf.io/6gmw2/) about compensating for deficiencies in daily life with video games])
   - Publishing Registered Reports (e.g., [this project on Xbox gaming and wellbeing](https://osf.io/edtwn/), currently accepted in-principle at Technology, Mind & Behavior)
-  - Using simulated data for power analysis of complex models (e.g., [this paper]((https://osf.io/vp7ye/))
+  - Using simulated data for power analysis of complex models (e.g., [this paper](https://osf.io/vp7ye/))
 - **Community-building/dissemination**
   - Teaching workshops on statistical malpractice, questionable research practices, and publication bias for the [QMUL researcher development programme](https://www.qmul.ac.uk/queenmaryacademy/researcher-development/) and elsewhere, with [all materials shared for reuse](https://osf.io/vst2p/)
   - Founding and co-organizing the QMUL chapter of [ReproducibiliTea](https://reproducibilitea.org), holding monthly reading group meetings across disciplines and institutions about challenges to research quality
