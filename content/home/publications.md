@@ -10,7 +10,11 @@ headless: true
 weight: 60
 
 title: Publications
-subtitle: 'For a complete and up-to-date list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
+subtitle: 'Free-to-read open access versions of all publications can be found via links with the{{< icon name="open-access" pack="ai" >}}icon.<br><br>
+
+For an up-to-date list of publications, check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
+
+
 
 content:
   # Filter on criteria

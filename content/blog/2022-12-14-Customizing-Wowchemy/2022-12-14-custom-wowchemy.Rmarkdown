@@ -49,7 +49,9 @@ To try and leave a slightly more lasting mark, I spent more hours than I'd like 
 
 The full codebase for my website is available on [Github](https://github.com/nballou/nickballousite).
 
-**Crucial note**: These alterations frequently did not work out of the box for me when using others' code, and they similarly may not for you. Due to 1) differences in Wowchemy versions and other idiosyncratic parts of your setup, and 2) poor documentation from me after having gone through a lot of trial and error, these tips are more about pointing you in the right direction with sources rather than directly solving your problems. 
+{{% callout note %}}
+These alterations often failed to work out of the box for me when borrowing others' code, and they similarly may not work for you. Due to differences in1) Wowchemy versions and idiosyncratic parts of your setup, and 2) poor documentation on my part after too many hours of trial and error, these tips are more about pointing you in the right direction with sources rather than directly solving your problems. 
+{{% /callout %}}
 
 # Setting up your site
 

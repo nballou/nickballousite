@@ -2,7 +2,12 @@
 title: "Understanding whether lockdowns lead to increases in the heaviness of gaming using massive-scale data telemetry: An analysis of 251 billion hours of playtime"
 date: 2022-08-12
 publishDate: 2022-08-12
-authors: ["David Zendle", "Catherine Flick", "Darel Hargarth", "**Nick Ballou**", "Joe Cutting", "Anders Drachen"]
+authors: ["David Zendle", "Catherine Flick", "Darel Hargarth", "Nick Ballou", "Joe Cutting", "Anders Drachen"]
+author_notes:
+- ""
+- ""
+- ""
+- "That's me!"
 publication_types: ["3"]
 abstract: "**Objectives**: The primary objective of this study is to determine whether any specific lockdown policy led to meaningful increases in the amount of time that individuals spent playing video games COVID-19 has led governments across the world to enact a variety of containment and closure (‘lockdown’) policies. Significant attention has been directed towards the idea that these public health measures may have unanticipated negative side-effects.  A nascent evidence base suggests that individuals played video games for longer during lockdowns and school closures in specific. This increase in playtime per gamer is linked to the potential for lockdowns to induce gaming disorder.  However, the evidence base regarding lockdowns and disordered gaming is based on self-report and is susceptible to bias. It is therefore unclear what the true consequences of lockdowns were for gaming behaviour across the world – disordered or otherwise.  
 
@@ -14,13 +19,13 @@ abstract: "**Objectives**: The primary objective of this study is to determine w
 featured: true
 publication: "*Preprint*"
 links:
-  - icon_pack: fas
-    icon: scroll
+  - icon_pack: ai
+    icon: open-access
     name: Preprint
     url: 'https://doi.org/10.31234/osf.io/fm8gk'
   - icon_pack: ai
     icon: osf
-    name: OSF data
+    name: Data
     url: 'https://osf.io/sh4zg/'
 
 ---

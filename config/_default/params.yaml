@@ -128,3 +128,9 @@ disable_codefolding: false
 codefolding_show: show
 # Set to true to exclude the "Show/hide all" button
 codefolding_nobutton: false
+
+############################
+## Books
+############################
+
+docs_section_pager: true
