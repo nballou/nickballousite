@@ -24,9 +24,11 @@ interests:
 - Intensive longitudinal methods
 name: Nick Ballou
 organizations:
-- name: "Queen Mary University of London, Intelligent Games and Game Intelligence Program"
+- name: "Queen Mary University of London, Intelligent Games and Game Intelligence"
   url: "https://iggi.org.uk/"
-role: Psychology of Video Games PhD Researcher 
+- name: "Oxford Internet Institute"
+  url: "https://www.oii.ox.ac.uk/people/profiles/nick-ballou/"
+role: Psychology of Video Games PhD Researcher/Postdoc
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,10 +48,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br ></br > Hello! I'm a PhD researcher studying well-being and video gaming, with regard to both quantity and quality of play. 
+</br ></br ></br > Hello! I'm a PhD researcher and postdoc studying well-being and video gaming, with regard to both quantity and quality of play. 
 
-A primary goal of my work is to make psychological research on games more rigorous and trustworthy. I'm deeply involved in [open science](https://nickballou.com/openscience) advocacy, training, and meta-scientific research. I serve on the QMUL Research Integrity Committee and as the Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org).
+A primary goal of my work is to make psychological research on games more rigorous and trustworthy. I'm deeply involved in [open science](https://nickballou.com/openscience) advocacy, training, and meta-scientific research.
 
-I'm supervised by a delightful team: [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
+In my PhD, I'm supervised by a delightful team: [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
+
+In my postdoc, I work with [Prof Andy Przybylski](https://www.oii.ox.ac.uk/people/profiles/andrew-przybylski/) to understand how video games affect mental health. 
 
 Feel free to contact me about my research or anything else <a href="#contact">here</a>.
