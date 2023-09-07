@@ -15,7 +15,7 @@ This documentation is a work in progress (Sep 2023). If you have any suggestions
 
 The Basic Needs in Games (BANGS) is an open-access, free to use scale that assesses video game players' degree of need satisfaction and frustration. This questionnaire can be used to help understand outcomes such as video game enjoyment, engagement, in-game behavior, and well-being.
 
-Basic psychological needs are a concept from self-determination theory. Decades of theory and evidence support the idea that humans have innate and universal needs for:
+Basic psychological needs are a concept from self-determination theory<sup>1</sup>. Decades of theory and evidence support the idea that humans have innate and universal needs for:
 
 - *Autonomy*: the need to feel a sense of control over one's life and volitional in one's actions
 - *Competence*: the need to act effectively and exert mastery in the world
@@ -27,7 +27,7 @@ The degree to which activities satisfy or frustrate our basic psychological need
 
 For motivation, when activities satisfy our basic psychological needs, people tend to be more autonomously motivated to perform those activities---doing them because they are either inherently enjoyable, or because they align with one's authentic values. When activities frustrate our basic psychological needs, people tend to lose motivation, or (if other factors mean that stopping the activities is a less viable option) continue to perform the activity in an inflexible way.For mental health and wellbeing, when activities satisfy our basic psychological needs, people tend to feel better both during and after the time they spend doing them. 
 
-In the world of video games, basic psychological needs have been studied extensively, with research showing that they are key ingredients in what makes games 'fun'. For example, games may satisfy autonomy through allowing people to build desired avatars customization, satisfy competence by providing them rich feedback about their improvement over time, or satisfy relatedness by providing a social space for players to connect with friends and family through shared attention.
+In the world of video games, basic psychological needs have been studied extensively, with research showing that they are key ingredients in what makes games 'fun'<sup>2</sup>. For example, games may satisfy autonomy through allowing people to build desired avatars customization, satisfy competence by providing them rich feedback about their improvement over time, or satisfy relatedness by providing a social space for players to connect with friends and family through shared attention.
 
 In short, basic psychological needs are an important consideration for game designers trying to find out what makes their games engaging, for user researchers trying to understand how people behave in games, and for researchers trying to find out when and why games affect players' mental health. 
 
@@ -134,3 +134,10 @@ BANGS consists of the following items. Please see this [Excel file](https://nick
   </tr>
 </tbody>
 </table>
+
+# References
+
+<sup>1</sup>Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic psychological needs in motivation, development, and wellness. Guilford Press.
+
+<sup>2</sup>Tyack, A., & Mekler, E. D. (2020). Self-determination theory in HCI games research – current uses and open questions. CHI 2020. [https://doi.org/10.1145/3313831.3376723](https://doi.org/10.1145/3313831.3376723)
+

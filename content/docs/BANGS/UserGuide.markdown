@@ -7,17 +7,17 @@ summary: 'A brief guide to using the questionnaire.'
 subtitle: 'A brief guide to using the questionnaire.'
 ---
 
-{{% callout note %}}
-The following guide borrows liberally from a similar one shared for the [Player Experience Inventory](https://playerexperienceinventory.org/docs) scale. Theirs is an excellent scale and example of how to make research outputs accessible, and we highly encourage you to check it out!
-{{% /callout %}}️
-
 {{% callout info %}}
 For quick access, please see [this excel file with ready-to-use variants of BANGS](https://nickballou.com/files/BANGS.xlsx).
 {{% /callout %}}️
 
+{{% callout note %}}
+The idea for this guide is inspired by a similar one shared for the [Player Experience Inventory](https://playerexperienceinventory.org/docs) scale. Theirs is an excellent scale and example of how to make research outputs accessible, and we highly encourage you to check it out!
+{{% /callout %}}️
+
 # The Scale
 
-The Basic Needs in Games (BANGS) is an open-access, free to use scale. You can use it to understand how players experience your game. However, to ensure good measurement and fair comparisons, it is important to use the scale as devised. Below we provide a short, hands-on explanation, aimed to help researchers or game designers who are less familiar with survey studies. We also provide different templates to get you started.
+The Basic Needs in Games (BANGS) is an open-access, free to use scale. You can use it to understand how players experience a game or gaming in general. However, to ensure good measurement and fair comparisons, it is important to use the scale as devised. Below, we provide few tips; templates for getting started can be found here [Excel file](https://nickballou.com/files/BANGS.xlsx)..
 
 This is not meant to be guide on how to conduct surveys or how to perform statistical analysis of results. For more general information on conducting survey studies, I point you in the direction of a few useful resources at the bottom of this page.
 
