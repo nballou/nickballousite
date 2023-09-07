@@ -25,9 +25,9 @@ This is not meant to be guide on how to conduct surveys or how to perform statis
 
 ## What order should the items be in?
 
-We strongly recommend randomizing the order in which items appear.
+We strongly recommend randomizing the order in which items appear. This allows you to better use multiple items to measure the same underlying thing (i.e., the three autonomy satisfaction items) without it being overly obvious or tedious for participants who would have to otherwise fill out several similar items in a row.
 
-## What are the scale options?
+## What are the response options?
 
 BANGS was designed using a 7-pt Likert scale with the following format: 
 
@@ -115,9 +115,9 @@ td:hover {
 
 ## Scoring
 
-If possible, we recommend calculating factor scores based on players' responses to each item---this allows you to account for the fact that each item gives a different amount of information about the underlying construct. Research shows that these scores typically differ somewhat from simply taking the mean of each subscale, and that this can have an appreciable impact on your results. 
+If possible, we recommend calculating factor scores based on players' responses to each item, or using a measurement model---this allows you to account for the fact that each item gives a different amount of information about the underlying construct. [Research shows](https://doi.org/10.3758/s13428-022-01849-w) that these scores typically differ somewhat from simply taking the mean of each subscale, and that this can have an appreciable impact on your results. 
 
-If this is not feasible or convenient, we recommend simply using the mean of all items in each subscale (e.g., the mean of items 1, 2, and 3 for autonomy satisfaction).
+If this is not feasible or convenient, we recommend simply using the mean of all items in each subscale (e.g., the mean of items 1, 2, and 3 for autonomy satisfaction; items 4, 5, and 6 for autonomy frustration, and so on).
 
 Depending on your research interests, it may be appropriate to calculate the mean of all the need satisfaction items (i.e., satisfaction of autonomy, competence, and relatedness) and the mean of all need frustration items (i.e., frustration of autonomy, competence, and relatedness) as holistic indications of people's overall need satisfaction and frustration. Note, however, that this will result in the loss of information about which needs are more satisfied or frustrated. 
 
