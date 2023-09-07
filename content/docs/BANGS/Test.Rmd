@@ -1,0 +1,9 @@
+---
+title: WTF?
+date: 2023-04-14
+type: book
+draft: true
+weight: 20
+---
+
+Why does this work fine?

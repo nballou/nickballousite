@@ -18,9 +18,9 @@ main:
   - name: Blog
     url: '/blog/'
     weight: 60
-  # - name: BANG Questionnaire
-  #   url: '/docs/bang/'
-  #   weight: 65
+  - name: BANG Questionnaire
+    url: '/docs/bangs/'
+    weight: 65
   - name: CV
     url: '/files/cv.pdf'
     weight: 70

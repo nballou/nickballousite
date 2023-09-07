@@ -9625,6 +9625,24 @@ div.chart {
   overflow-x: auto; }
 
 /* My own custom stuff */
+/* Table Striped */
+.dark table > tbody > tr:nth-child(odd) > td,
+.dark table > tbody > tr:nth-child(odd) > th {
+  background-color: #fff;
+  user-select: none;
+  -moz-user-select: none; }
+
+.dark table > td:hover {
+  background-color: #ff0000;
+  color: #ffffff; }
+
+.table-hover > tbody > tr.hidden-table:hover > td {
+  background-color: unset !important;
+  color: unset !important; }
+
+.noHover {
+  pointer-events: none; }
+
 @keyframes slide-from-right {
   0% {
     transform: translateX(150%); }
