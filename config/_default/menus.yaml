@@ -18,7 +18,7 @@ main:
   - name: Blog
     url: '/blog/'
     weight: 60
-  - name: BANG Questionnaire
+  - name: Basic Needs in Games Scale (BANGS)
     url: '/docs/bangs/'
     weight: 65
   - name: CV
