@@ -18,12 +18,15 @@ main:
   - name: Blog
     url: '/blog/'
     weight: 60
-  - name: Basic Needs in Games Scale (BANGS)
+  - name: BANGS Scale
     url: '/docs/bangs/'
     weight: 65
+  - name: Thesis
+    url: '/files/thesis.pdf'
+    weight: 70
   - name: CV
     url: '/files/cv.pdf'
-    weight: 70
+    weight: 80
   
 # Sub-home menu
   - name: About
