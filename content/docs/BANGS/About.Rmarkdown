@@ -8,12 +8,26 @@ subtitle: 'A summary of what the questionnaire is and what it measures.'
 ---
 
 {{% callout warning %}}
-This documentation is a work in progress (Sep 2023). If you have any suggestions for how to make the scale as accessible as possible, please feel free to contact Nick Ballou (nick@nickballou.com).
+This documentation is a work in progress (Jan 2024). If you have any suggestions for how to make the scale as accessible as possible, please feel free to contact me (nick@nickballou.com).
 {{% /callout %}}️
 
-# About the BANGQ
+# About BANGS
 
-The Basic Needs in Games (BANGS) is an open-access, free to use scale that assesses video game players' degree of need satisfaction and frustration. This questionnaire can be used to help understand outcomes such as video game enjoyment, engagement, in-game behavior, and well-being.
+The Basic Needs in Games (BANGS) is an open-access, free to use scale that assesses video game players' degree of need satisfaction and frustration. This questionnaire can be used to help understand how players experience a video game, and predict outcomes such as game enjoyment, engagement, in-game behavior, and well-being.
+
+BANGS includes 6 subscales covering satisfaction and frustration of all three basic needs (autonomy, competence, and relatedness; see below). Three variants of BANGS have been validated for use, with slightly different wordings to cover particular game sessions, experiences with one game over time, or experiences with gaming in general.
+
+# Why BANGS? 
+
+Players’ basic psychological needs for autonomy, competence, and relatedness are among the most commonly used constructs used in research on what makes video games so engaging, and how they might support or undermine user wellbeing. However, existing measures of basic psychological needs in games have some important limitations:
+
+- They either do not measure need frustration (which has emerged as a [common and impactful](https://doi.org/10.1145/3611028) experience in games distinct from the absence of need satisfaction), or measure it in a way that may not be appropriate for the video games domain
+- They struggle to capture feelings of relatedness in both [single- and multiplayer contexts](https://doi.org/10.1145/3152771.3156149)
+- They often lack validity evidence for certain contexts (e.g., playtesting vs experience with games as a whole). 
+
+BANGS attempts to address these limitations and others. For more details on how it does so, we encourage you to read the [validation paper](https://doi.org/10.31234/osf.io/4965z). 
+
+# Background: Self-determination Theory
 
 Basic psychological needs are a concept from self-determination theory<sup>1</sup>. Decades of theory and evidence support the idea that humans have innate and universal needs for:
 
