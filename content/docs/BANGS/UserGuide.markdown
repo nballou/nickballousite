@@ -17,9 +17,11 @@ The idea for this guide is inspired by a similar one shared for the [Player Expe
 
 # The Scale
 
-The Basic Needs in Games (BANGS) is an open-access, free to use scale. You can use it to understand how players experience a game or gaming in general. However, to ensure good measurement and fair comparisons, it is important to use the scale as devised. Below, we provide few tips; templates for getting started can be found here [Excel file](https://nickballou.com/files/BANGS.xlsx)..
+The Basic Needs in Games (BANGS) is an open-access, free to use scale. You can use it to understand how players experience a game or gaming in general. However, to ensure good measurement and fair comparisons, it is important to use the scale as devised. 
 
-This is not meant to be guide on how to conduct surveys or how to perform statistical analysis of results. For more general information on conducting survey studies, I point you in the direction of a few useful resources at the bottom of this page.
+Below, we provide a few tips. This is not meant to be guide on how to conduct surveys or how to perform statistical analysis of results. For more general information on conducting survey studies, I point you in the direction of a few useful resources at the bottom of this page.
+
+If you are comfortable with player experience measurement, quick-start templates can be found here [Excel file](https://nickballou.com/files/BANGS.xlsx).
 
 # How to use
 
