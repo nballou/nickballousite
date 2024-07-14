@@ -88,7 +88,7 @@ BANGS consists of the following items. Please see this [Excel file](https://nick
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">bang_05</span></td>
-    <td class="tg-4gg8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Many actions in [X] were boring.</span></td>
+    <td class="tg-4gg8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Many activities in [X] were boring.</span></td>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">bang_06</span></td>
