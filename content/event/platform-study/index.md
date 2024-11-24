@@ -11,11 +11,11 @@
 #   street: 450 Serra Mall
 all_day: false
 authors: [Nick Ballou, Tamás Földes, Thomas Hakman, Kristoffer Magnusson, Matti Vurore, Andrew K Przybylski]
-date: "2024-11-24T13:00:00Z"
-date_end: "2024-11-24T15:00:00Z"
+date: "2024-11-24"
+# date_end: "2024-11-24T15:00:00Z"
 event: Platform Study
 # event_url: https://example.org
-featured: false
+featured: true
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
