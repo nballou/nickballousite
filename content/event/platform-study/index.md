@@ -25,8 +25,8 @@ featured: false
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # location: Wowchemy HQ
-# projects:
-# - example
+projects:
+- platform-study
 publishDate: "2024-11-241T00:00:00Z"
 # slides: example
 summary: Waiting list sign-up for our study on video game behavior and wellbeing.
@@ -42,7 +42,7 @@ url_video: ""
 Recruitment for this study is currently paused. If you are interested in joining the waiting list for future spots, you may add your contact details [here](https://oii.qualtrics.com/jfe/form/SV_1Lb5o7F3RHhQ2Ue). 
 {{% /callout %}}
 
-Oxford is currently undertaking a study on video game behavior and wellbeing. The study is being conducted by the Oxford Internet Institute, and is funded by the UK's Economic and Social Research Council. The principle investigator of the study is Prof. Andrew K. Przybylski.
+Oxford is currently undertaking a study on video game behavior and wellbeing. The study is being conducted by the Oxford Internet Institute, and is funded by the UK's Economic and Social Research Council. The principle investigator of the study is Prof. Andrew K. Przybylski. Project details and some examples of our previous work can be found on our [project page](https://www.oii.ox.ac.uk/research/projects/understanding-video-game-play-and-mental-health/). 
 
 Participants in the study consent to share objective behavioral data from one or more video game platforms that they use, such as Nintendo Switch, Xbox, or Steam, and to complete wellbeing surveys over time. 
 
