@@ -14,13 +14,13 @@ commentable: true
 codefolding_show: show
 ---
 
-{{% callout note %}} This idea is simple for no one else to have had it, so smarter people have probably tried and hit a wall. If you know of relevant endeavors/people to point me to, I'd be very grateful! I'm familiar with tangentially-related efforts to make psychology more cumulative like the Human Affectome project and the [Human Behavior Change project](https://www.humanbehaviourchange.org/), for example, but nothing that quite captures the version-controlled theory-building I'm describing. {{% /callout %}}
+{{% callout note %}} This idea is too simple for no one else to have had it, so smarter people have probably tried and hit a wall. If you know of relevant endeavors/people to point me to, I'd be very grateful! I'm familiar with tangentially-related efforts to make psychology more cumulative like the Human Affectome project and the [Human Behavior Change project](https://www.humanbehaviourchange.org/), for example, but nothing that quite captures the version-controlled theory-building I'm describing. {{% /callout %}}
 
 Establishing theories of this nature is perhaps the field's greatest challenge. By some accounts the theory crisis is more fundamental than---and perhaps the very source of---the replication crisis[^1].
 
 [^1]: Eronen, M. I., & Bringmann, L. F. (2021). The Theory Crisis in Psychology: How to Move Forward. Perspectives on Psychological Science, 174569162097058. <https://doi.org/10.1177/1745691620970586>
 
-To call good theory-building difficult is an understatement, and we will forever be dealing with fundamental challenges---because, for example, some causes are unobservable/unmanipulable internal or latent entities, human complexity means even our best possible model of cause and effect will only ever *probabalistically* predict a particular outcome, and scientific incentive structures push people to have their own thing rather than iterate on someone else's.
+To call good theory-building difficult is an understatement, and we will forever be dealing with fundamental challenges---because, for example, some causes are unobservable/unmanipulable internal or latent entities, human complexity means even our best possible model of cause and effect will only ever *probabilistically* predict a particular outcome, and scientific incentive structures push people to have their own thing rather than iterate on someone else's.
 
 However, I nonetheless feel that we can do better, and I have a proposal that I think can help us get there: TheoryHub. TheoryHub is an envisioned platform where, analogously to GitHub, researchers create and iterate on version-controlled theoretical models in the form of directed acyclic graphs[^2]. By benefiting researchers with a clearer "menu" of testable hypotheses, and by strengthening the link between studies and the underlying models and theories they purport to be testing, TheoryHub could help support a psychological science that truly is cumulative, rather than simply purporting to be.
 
@@ -39,7 +39,7 @@ Let's dive in.
 
 ## Problem 1: Vague, Verbal Theory
 
-The problem of vague is not new, and has received much more coherent accounts than I can give.[^3] In short, however, researchers have for decades criticized the fact that theories are often stated in verbal terms, which leaves a very loose derivation chain[^4]---there are a near-infinite set of ways that a researcher can instantiate that theory in the form of a statistical test, based on things like confounding (i.e., the other factors that may or may not be part of the causal structure) and measurement. When a study fails to find support for the theory, these results are often dismissed as illegitimate tests of the theory---*if you had simply run the study how I (implicitly) understand the theory, you would've gotten a positive result,* proponents may argue*.*
+The problem of vague is not new, and has received much more coherent accounts than I can give.[^3] In short, however, researchers have for decades criticized the fact that theories are often stated in verbal terms, which leaves a very loose derivation chain[^4]---there are a near-infinite set of ways that a researcher can instantiate that theory in the form of a statistical test, based on things like confounding (i.e., the other factors that may or may not be part of the causal structure) and measurement. When a study fails to find support for the theory, these results are often dismissed as illegitimate tests---*if you had simply run the study how I (implicitly) understand the theory, you would've gotten a positive result,* proponents may argue.
 
 [^3]: Oberauer, K., & Lewandowsky, S. (2019). Addressing the theory crisis in psychology. Psychonomic Bulletin & Review, 26(5), 1596--1618. <https://doi.org/10.3758/s13423-019-01645-2>
 
@@ -49,7 +49,7 @@ The problem of vague is not new, and has received much more coherent accounts th
 
 One common proposal to strengthen the derivation chain is to make greater use of Directed Acyclic Graphs (DAGs)---graphs consisting of nodes (variables such as psychological traits or environmental factors), connected by arrows, which signify directional causal effects. These graphs are 'acyclic,' such that causality flows in one direction only. Using DAGs, researchers can formally encode their causal assumptions or evidence.
 
-Using DAGs is not a cure-all: first, theories are larger than a specific causal model (a theory may entail somewhere betwen many to infinite possible DAGs), and second, using a DAG does not constrain the universe of (non-)parametric models that could be used. As Eiko Fried (2020)[^5] wrote:
+Using DAGs is not a cure-all: first, theories are larger than a specific causal model (a theory may entail many or even infite infinite possible DAGs), and second, using a DAG does not constrain the universe of (non-)parametric models that could be used. As Eiko Fried (2020)[^5] wrote:
 
 [^5]: Fried, E. I. (2020). Lack of Theory Building and Testing Impedes Progress in The Factor and Network Literature. Psychological Inquiry, 31(4), 271--288. <https://doi.org/10.1080/1047840X.2020.1853461>
 
@@ -122,7 +122,7 @@ In a recent paper[^9], I developed the Basic Needs in Games (BANG) model of vide
   <figcaption>Figure 1. Simple DAG predicting a relationship between video game playtime and problematic displacement (time de-allocated to other important life domains). </figcaption>
 </figure>
 
-BANG entails a wide variety of causal predictions. Let's present we're interested in testing a small section of the wider theory: the relationship between *play quantity* (how much time people spend playing video games) and *problematic displacement* (a decrease in time allocated to health-relevant domains such as work/school due to the time spent playing games). The simplest possible version of this is visualized in Figure 1.
+BANG entails a wide variety of causal predictions. Let's say we're interested in testing a small section of the wider theory: the relationship between *play quantity* (how much time people spend playing video games) and *problematic displacement* (a decrease in time allocated to health-relevant domains such as work/school due to the time spent playing games). The simplest possible version of this is visualized in Figure 1.
 
 We thus deposit this extremely basic model into our TheoryHub repo. Each causal prediction in the DAG is given a code, for example in the form {theory}.{model}.{version}.{hypothesis}.---here, `BANG.Displacement.v01.H1`.
 
@@ -147,7 +147,7 @@ As a tester of the BANG model, we may therefore "fork" the model on TheoryHub, a
 <figure>
   <class="align-left">
   <img src="/img/displacement-2.png" alt="TODO" width="300"/>
-  <figcaption>Figure 2. An updated DAG predicting that the relationship between video game playtime and problematic displacement (time de-allocated to other important life domains) is moderated by life fit (ability to organize responsibilities to make time for gaming). Note that effect sized modification is indicated by the arrow-on-arrow dashed line, a slight liberty in the traditional depictions of DAGs whereby moderators would point only to the outcome variable <a href="https://doi.org/10.1097/EDE.0b013e318126c11d"> (Weinberg 2007) </a>. </figcaption>
+  <figcaption>Figure 2. An updated DAG predicting that the relationship between video game playtime and problematic displacement (time de-allocated to other important life domains) is moderated by life fit (ability to organize responsibilities to make time for gaming). Note that effect size modification is indicated by the arrow-on-arrow dashed line, a slight liberty in the traditional depictions of DAGs whereby moderators would point only to the outcome variable <a href="https://doi.org/10.1097/EDE.0b013e318126c11d"> (Weinberg 2007) </a>. </figcaption>
 </figure>
 
 ### Step 6: Repeated Testing
@@ -156,17 +156,17 @@ The next researchers that are interested in this model---whether the originators
 
 ### Step 7: Evidence synthesis
 
-In open source software development, there are often many people responsible for the development and maintanence of a tool---many of whom may have had no role in its initial creation. Instead, a community of engaged supporters of the tool collaboratively and flexibly delegate responsibilities, reach consensuses, and act as collective stewards of an important communal resource.
+In open source software development, there are often many people responsible for the development and maintenance of a tool---many of whom may have had no role in its initial creation. Instead, a community of engaged supporters of the tool collaboratively and flexibly delegate responsibilities, reach consensuses, and act as collective stewards of an important communal resource.
 
-My proposal for TheoryHub is similar. People who demonstrate strongly knowledge of the theory may request to join the maintainance team. Over time, a theory may thus develop a team of stewards, who act collectively to maximize the theory's alignment with the empirical world and value to the wider community.
+My proposal for TheoryHub is similar. People who demonstrate strong knowledge of the theory may request to join the maintenance team. Over time, a theory may thus develop a team of stewards, who act collectively to maximize the theory's alignment with the empirical world and value to the wider community.
 
-In our example, the maintainance team may decide after a few successful tests that the version with the confound is better aligned with a growing evidence base, decide to endorse `BANG.Displacement.v02-01` as the "canonical" model. In GitHub terms, this acts as a merge or a "pull request"---we begin with both v01 and v02, and eventually select one of the two (or potentially a combination of them) that we believe is the best current version, and thus return to a single model with the greater consensus.
+In our example, the maintenance team may decide after a few successful tests that the version with the confound is better aligned with a growing evidence base, decide to endorse `BANG.Displacement.v02-01` as the "canonical" model. In GitHub terms, this acts as a merge or a "pull request"---we begin with both v01 and v02, and eventually select one of the two (or potentially a combination of them) that we believe is the best current version, and thus return to a single model with the greater consensus.
 
 ## Benefits of TheoryHub
 
 I hope this illustration has been clear, and I also hope it's clear why I think this could help psychological science:
 
--   *Reduced translation gap:* rather than needing to interpret a verbal theory and instantiate their own, adhoc statistical model for a particular study, researchers will now have access to specific testable predictions "off the shelf." While researchers still maintain the freedom to register their own competing theory or model, TheoryHub provides the option to directly build on previous work with clear guidance/constraints on measurement and statistical modelling
+-   *Reduced translation gap:* rather than needing to interpret a verbal theory and instantiate their own, ad hoc statistical model for a particular study, researchers will now have access to specific testable predictions "off the shelf." While researchers still maintain the freedom to register their own competing theory or model, TheoryHub provides the option to directly build on previous work with clear guidance/constraints on measurement and statistical modelling
 -   *Living systematic review:* as empirical results will now have a direct connection to the models they are testing, we can much more easily synthesize the body of evidence on a topic, possibly on an ongoing basis---without relying on laborious and fraught systematic literature searches collated by a single research team.
 -   *Incremental complexity*: As I discovered all too well in my own thesis, trying to capture the full complexity of a (social) psychological system in a theory is extraordinarily difficult. No researcher can hold all of this complexity in their head, and no manuscript can hold it in its text, so we instead tend to use abstracted, simplified forms. TheoryHub would provide the scaffolding to begin with a simplified theory, but incrementally build up into the true complexity of the world (as visually overwhelming as it might ultimately be!)
 
@@ -176,7 +176,7 @@ TheoryHub is well aligned with a platform like [Octopus](https://www.octopus.ac)
 
 -   DAGs are just one initial step towards more rigorous theory---tremendous effort is also going into computational modelling and so-called formal theory, specified at the level of an equation. In a distant future, I can imagine a version of TheoryHub where people are checking out theories at the level of parameter estimates and equations, and collaboratively working to refine them.
     -   As shown in Figure 2, DAGs struggle to encode effect size modification, something that is vital for many theories. A careful balance will be needed to ensure that causal models are sufficiently detailed to constrain the possible scope of analyses, but sufficiently generalizable to capture the full breadth of theoretical predictions common in the discipline
--   Collaborative maintainance and stewardship is both a substantial undertaking (meaning that it would need to be incentivized under hiring and promotion criteria to justify people's time and effort)
+-   Collaborative maintenance and stewardship is both a substantial undertaking (meaning that it would need to be incentivized under hiring and promotion criteria to justify people's time and effort)
 
 # Closing Thoughts
 
