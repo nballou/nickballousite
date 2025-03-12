@@ -1,8 +1,8 @@
 ---
 title: "TheoryHub: A Proposal for More Cumulative, Iterative, and Connected Theory-Building in Psychology"
 author: ["admin"]
-date: '2025-02-10'
-lastmod: '2025-02-28'
+date: '2025-02-28'
+lastmod: '2025-03-12'
 slug: theoryhub
 categories: []
 tags: []
@@ -16,13 +16,15 @@ codefolding_show: show
 
 {{% callout note %}} This idea is too simple for no one else to have had it, so smarter people have probably tried and hit a wall. If you know of relevant endeavors/people to point me to, I'd be very grateful! I'm familiar with tangentially-related efforts to make psychology more cumulative like the Human Affectome project and the [Human Behavior Change project](https://www.humanbehaviourchange.org/), for example, but nothing that quite captures the version-controlled theory-building I'm describing. {{% /callout %}}
 
+{{% callout note %}} Update Mar 12, 2025: Caspar van Lissa and colleagues posted a [preprint](https://osf.io/preprints/psyarxiv/t53np_v1) with many similar ideas---much more comprehensively than is outlined here. Please check it out, and stayed tuned for more in this space! {{% /callout %}}
+
 Establishing theories of this nature is perhaps the field's greatest challenge. By some accounts the theory crisis is more fundamental than---and perhaps the very source of---the replication crisis[^1].
 
 [^1]: Eronen, M. I., & Bringmann, L. F. (2021). The Theory Crisis in Psychology: How to Move Forward. Perspectives on Psychological Science, 174569162097058. <https://doi.org/10.1177/1745691620970586>
 
-To call good theory-building difficult is an understatement, and we will forever be dealing with fundamental challenges---because, for example, some causes are unobservable/unmanipulable internal or latent entities, human complexity means even our best possible model of cause and effect will only ever *probabilistically* predict a particular outcome, and scientific incentive structures push people to have their own thing rather than iterate on someone else's.
+To call good theory-building difficult is an understatement. The social sciences must grapple with fundamental challenges: some causes are unobservable/unmanipulable internal or latent entities; humans are so complex that even our best models will only ever *probabilistically* determine outcomes, and incentive structures push scientists to have their own thing rather than iterate on someone else's.
 
-However, I nonetheless feel that we can do better, and I have a proposal that I think can help us get there: TheoryHub. TheoryHub is an envisioned platform where, analogously to GitHub, researchers create and iterate on version-controlled theoretical models in the form of directed acyclic graphs[^2]. By benefiting researchers with a clearer "menu" of testable hypotheses, and by strengthening the link between studies and the underlying models and theories they purport to be testing, TheoryHub could help support a psychological science that truly is cumulative, rather than simply purporting to be.
+However, I nonetheless feel we can do better, and I have a proposal that can help us get there: TheoryHub. TheoryHub is an envisioned platform where, analogously to GitHub, researchers create and iterate on version-controlled theoretical models in the form of directed acyclic graphs[^2]. By benefiting researchers with a clearer "menu" of testable hypotheses and benefiting the field with stronger links between studies and the underlying models and theories they purport to be testing, TheoryHub could support a psychological science that is as cumulative as it aspires to be.
 
 [^2]: Rohrer, J. M. (2018). Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data. Advances in Methods and Practices in Psychological Science, 1(1), 27--42. <https://doi.org/10.1177/2515245917745629>
 
