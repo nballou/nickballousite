@@ -134,7 +134,7 @@ At this point, the model is ready to be "checked out"---i.e., tested. Testers---
 
 After conducting the study, the testers would then mark their test as complete, and provide a link to the results, or to a publication where the results are found. In a perfect world, they would also supplement their deposit with further details of the derivation chain: what measures they used, the timescale, the population, and so on.
 
-In this case, let's say we found a trivial, but significant correlation between playtime and problematic displacement: r = .10, 95% CI [.05, .15].
+In this case, let's say we found a trivial, but significant correlation between playtime and problematic displacement: r = .10, 95% CI \[.05, .15\].
 
 By linking their results to the checked-out model, the researchers form *clear and obvious links* between a specific model that may have predated the paper in which it was tested and the empirical results from testing it.
 
