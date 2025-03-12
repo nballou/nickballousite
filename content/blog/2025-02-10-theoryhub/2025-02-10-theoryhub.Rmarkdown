@@ -1,7 +1,7 @@
 ---
 title: "TheoryHub: A Proposal for More Cumulative, Iterative, and Connected Theory-Building in Psychology"
 author: ["admin"]
-date: '2025-02-10'
+date: '2025-02-28'
 lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
 slug: theoryhub
 categories: []
@@ -14,9 +14,9 @@ commentable: true
 codefolding_show: show
 ---
 
-{{% callout note %}} This idea is too simple for no one else to have had it, so smarter people have probably tried and hit a wall. If you know of relevant endeavors/people to point me to, I'd be very grateful! I'm familiar with tangentially-related efforts to make psychology more cumulative like the Human Affectome project and the [Human Behavior Change project](https://www.humanbehaviourchange.org/), for example, but nothing that quite captures the version-controlled theory-building I'm describing. {{% /callout %}}  
-  
-{{% callout note %}} Update Mar 12: Caspar van Lissa and colleagues posted a [preprint](https://osf.io/preprints/psyarxiv/t53np_v1) with many similar ideas---much more comprehensively than is outlined here. Please check it out, and stayed tuned for more in this space! {{% /callout %}}
+{{% callout note %}} This idea is too simple for no one else to have had it, so smarter people have probably tried and hit a wall. If you know of relevant endeavors/people to point me to, I'd be very grateful! I'm familiar with tangentially-related efforts to make psychology more cumulative like the Human Affectome project and the [Human Behavior Change project](https://www.humanbehaviourchange.org/), for example, but nothing that quite captures the version-controlled theory-building I'm describing. {{% /callout %}}
+
+{{% callout note %}} Update Mar 12, 2025: Caspar van Lissa and colleagues posted a [preprint](https://osf.io/preprints/psyarxiv/t53np_v1) with many similar ideas---much more comprehensively than is outlined here. Please check it out, and stayed tuned for more in this space! {{% /callout %}}
 
 Establishing theories of this nature is perhaps the field's greatest challenge. By some accounts the theory crisis is more fundamental than---and perhaps the very source of---the replication crisis[^1].
 
