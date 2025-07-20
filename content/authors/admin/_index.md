@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD candidate interested in how video games and mental healthrelate, and using detailed behavioral data to unpack those relationships better. Looking to make science a little less broken.
+bio: Postdoc interested in how media and mental health relate, and using behavioral data to unpack those relationships better. Looking to make science a little less broken.
 education:
  courses:
  - course: PhD, CDT in Intelligent Games and Game Intelligence
@@ -16,24 +16,22 @@ education:
 
 email: "nick@nickballou.com"
 interests:
-- Video games
+- Media use (games/social media)
 - Digital trace data
 - Open research
-- Dysregulated (disordered) gaming
-- Self-determination theory
 - Intensive longitudinal methods
 name: Nick Ballou
 organizations:
 - name: "Oxford Internet Institute"
   url: "https://www.oii.ox.ac.uk/people/profiles/nick-ballou/"
-role: Psychology of Video Games Researcher
+role: Psychology of Media Researcher
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nick@nickballou.com'
-- icon: mastodon
+- icon: bluesky
   icon_pack: fab
-  link: https://scicomm.xyz/@nballou
+  link: https://bsky.app/profile/nballou.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/nballou
@@ -46,9 +44,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br > Welcome! I’m a psychologist and lifelong video game player researching how gaming affects mental health. This includes both positive impacts such as stress relief, and negative impacts such as neglecting personal relationships. To study this, I work with data from companies such as Nintendo, Xbox, and Unity.
+</br ></br > Welcome! I’m a psychologist and lifelong video game player researching how media use affects health---for example, effects like stress relief, displacement, and nostalgia. I develop creative methods to collect detailed behavioral data from platforms (e.g., Xbox, TikTok) and occasionally form non-financial partnerships with companies (e.g., Nintendo) to access their data.
 
-A broader goal of my work is to make psychological research on games more trustworthy via the [open science](https://nickballou.com/openscience) movement.
+A broader goal of my work is to make psychological research more trustworthy and causally-oriented as part of the [science reform](https://nickballou.com/openscience) movement.
 
 I'm a postdoc at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/nick-ballou/), having recently finished my PhD at Queen Mary University of London.<sup><abbr title="Supervised in the former by the inimitable Andy Przybylski, and in the latter by the wonderful team of Sebastian Deterding, David Zendle, and Laurissa Tokarchuk."><small><small><i class="fas fa-heart"></i></small></small></abbr></sup> 
 
