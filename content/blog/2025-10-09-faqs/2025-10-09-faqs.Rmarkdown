@@ -3,7 +3,7 @@ title: "Frequently Asked Questions about Games and Mental Health"
 author: ["admin"]
 date: '2025-10-09'
 lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
-slug: theoryhub
+slug: faqs
 categories: []
 tags: []
 summary: ""
