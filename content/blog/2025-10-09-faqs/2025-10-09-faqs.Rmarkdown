@@ -1,0 +1,127 @@
+---
+title: "Frequently Asked Questions about Games and Mental Health"
+author: ["admin"]
+date: '2025-10-09'
+lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
+slug: theoryhub
+categories: []
+tags: []
+summary: ""
+subtitle: ""
+smartDashes: true
+toc: true
+commentable: true
+codefolding_show: show
+---
+
+I often get questions from students or other interested parties about how games affect mental health. I don't have time to answer every inquiry, and many of the questions are similar, so I've compiled a list of frequently asked questions (FAQs) below. If you have a question that isn't covered here, feel free to reach out via email or social media and I'll do my best.
+
+{{% callout note %}} Much of what is shared below is personal opinion---the scientific evidence, particularly causal evidence, is often sparse here. Some of it is also from responses I wrote quickly and for a young audience (e.g., middle schoolers), so may be inappropriately simplified - I have some hopes to update and polish this in the future, but do feel free to call me out on inaccuracies. {{% /callout %}}
+
+## Games and Wellbeing
+
+### What are some of the most significant findings regarding the relationship between video games and mental well-being?
+
+The most important finding is that quality is much more important than quantity. We see people who are playing 6 hours a day every day and who are happy, healthy, successful at work and school, and so on; we also see people who play 1 hour per week but who are harmed by experiences like toxicity, guilt, and feelings of failure. This means we’re unfortunately not able to give one-sized-fits-all recommendations for parents or kids - a healthy relationship with games comes down to playing the right games in the right moments for the right reasons, and that takes a lot of reflection to figure out.
+
+### Do games have the potential to be formally used as mental health tools? As part of prevention or therapy for example?
+
+They already are! There are lots of what we call “applied games” that do things like deliver a particular kind of therapy. You can check out something like [Mindlight](https://playmindlight.com) for anxiety or [EndeavorRX](https://www.endeavorrx.com) for ADHD. There are also therapists who integrate gaming into their practice (like [this one](https://www.hiddenquesttherapy.com/about-me)). On a smaller scale, plenty of people are also using games to manage day-to-day mental health issues - for at least some people, the fact that games give a positive environment to escape into when life is stressful or unpleasant helps them be more resilient and stay happier.
+
+### Are some types of games better than others?
+
+At this point, I’m afraid we can’t concretely say—we’ve only just begun to study games with the kind of detailed behavioral data needed to address that sort of question. So far, we’ve mostly been stuck asking people “how much time did you spend playing, and what games did you play?” We know, however, that people have a hard time remembering these things and so their reports aren’t very trustworthy. Only now are we starting to get data across a whole platform—i.e., what are all the games you played on Xbox, Switch, Playstation, and so on—that we can use to identify certain types of games or features. So for now, I think the answer is that the type of game that has the greatest overall impact on wellbeing is any game that someone made an intentional decision to play. If they were really bored at work and want some extra stimulation, maybe they’d play an action RPG like Elden Ring. If they were highly stressed from a commute and wanted to relax, maybe they’re opt for a simulation game like PowerWash Simulator [(which we did a study on)](https://osf.io/kyn7g). If they were feeling lonely, maybe they’d play a coop  game like Helldivers 2. Almost every game has the potential to benefit—or harm—the player depending on their state of mind when they pick it up.
+
+_(a second answer I gave)_
+
+I wouldn’t go so far as to say that certain games are inherently better for wellbeing than others. Rather, when people describe gaming having a major positive effect on their wellbeing, it’s often because gaming is offering something that they’re missing and value in real life, and this will depend on the alignment between the person’s situation and the game. For example, someone who’s feeling lonely might get the most out of a communication-focused multiplayer game like Among Us, or a really personal and emotional story-based game like the Last of Us. Someone who’s feeling bored might turn a high-octane, chaotic experience like Helldivers 2. Someone who’s feeling stressed might turn to a cozy management game like Spiritfarer. In this way games help “balance us out” to a desired state.
+
+
+### Do the harms of games outweigh the benefits?
+
+In video games as a whole, no, I don’t see any drawbacks that are so substantial as to outweigh the positive impacts many people report games having on their lives. Only a very small portion of people experience harms in relation to their video game play—mostly because they either (a) play so much that other areas of their life suffer (what we call “dysregulated” gaming), (b) overspend on microtransactions, or (c) experience toxicity in interactions with other players. These are important, but rare. In my opinion, we are better off trying to identify and help these particular players than making sweeping changes to how available video games are or how they’re designed. I will note, however, that the presence of gambling-like elements in games like loot boxes does concern me, given that they are [often available to young children](https://doi.org/10.1111/add.14973), and this is an area where I think we could remove a major drawback from certain games with common sense restrictions on how loot boxes are implemented, and how old you need to be to use them.
+
+### Do you have statistics that show video games can affect mental health?
+
+There's TONS of evidence that games can affect mental health—although it’s important to separate this from video game violence. The overwhelming majority of research is about topics like gaming to cope with difficult life circumstances (e.g., loss of a loved one), gaming for stress relief, excessive or problematic gaming interfering with other responsibilities or relationships, and so on. We recently documented [13 different ways](https://osf.io/q2kxg) games can affect mental health (warning: mostly aimed at an audience of researchers). All of these things are pretty unrelated to whether gaming has violence or not. It’s hard to boil this down into individual statistics, but one cool finding from a research study of ours is that mood tends to increase about 7 points (on a scale of 0–100) during the first 15 minutes of gaming, and then plateaus for the rest of the session. 7 points sounds like a little, but is actually pretty substantial—about twice as big as generally pleasant activities like going for a walk or listening to music.
+
+### What tips do you suggest for people trying to create a healthy relationship with games?
+
+My first recommendation is for players to keep track of their own play; in the form of a diary, a spreadsheet, or a web app, so they can develop a finer sense of when and how gaming makes them feel good—gaming can easily become an automatic routine, but will be most beneficial when people actively reflect on the quality of their gaming. My second recommendation is for researchers: if we want to understand games and mental health, we need this kind of detailed, time-sensitive gaming data. We can work with industry like we did here, or we can work around industry by using strategies like data donation, where people request a copy of their own data under GDPR and share it with the research team. But one way or another, we need to be looking at short-term effects using data that accounts for the fact that people play different games, at different times, for different reasons.
+
+Here are the questions I often tell people to ask themselves about their gaming to ensure they’re getting the most out of it:
+
+- Do I feel like I’m improving or learning when I play games?
+- Do I feel a sense of connection and belonging among other players and the in-game worlds?
+- If I weren’t playing games right now, what would I be doing instead? Do I have other ways to achieve the same feelings?
+- When, if ever, do I play despite not really wanting to?
+- Do I play games for a sense of escape? If so, it is more to escape from something or escape to a new environment?
+
+## Gaming Disorder
+
+### Is there such a thing as game addiction?
+
+Without a doubt, there are lots of people who play games to excess such that it harms other areas of functioning and causes the person distress. Many researchers label that addiction, and I think that's fair, although I prefer the term “dysregulated”, which describes people having difficulty managing their gaming in harmony with their life as a whole. Whatever you call it though, problematic and excessive play is real and important. The key thing to remember is that how much someone plays is only a small part of whether their gaming is dysregulated---there are people playing an hour a day who experience harm, and people who play 6 hours a day and experience no harm. So too can people be harmed by small or large amounts of gameplay in ways unrelated to addiction (for example, by toxic opponents, or being pressured to spend money against their best interest). We can’t just look at the amount of time people are playing and say anything meaningful about whether they are “addicted” or how gaming is affecting their wellbeing.
+
+### Should dysregulated gaming scales exclusively measure core criteria (e.g., continuation despite problems) and ignore peripheral criteria (e.g., escapism)?
+
+I’ve only dipped my toe in the psychometrics/behavioral addictions literature, so there are certainly experts who'd have a more informed opinion, but my instinct is that peripheral criteria should not be included at all. Even if clearly marked and treated as two separate factors, I think it becomes very easy for people to (subconsciously) conflate “high engagement = problematic engagement”. Conceptually, I think having people consciously make a decision to measure each of those concepts separately, and think carefully about how they relate to each other, is only a net positive for the field.
+
+In particular, I think the escapism/mood modification item is much more likely to capture “does this person have problems/low mood to escape from in the first place?” and shouldn’t be included in a measure of problematic use. There are so many more interesting and nuanced models of [escapism](https://doi.org/10.1037/ppm0000339) that can account for both adaptive and maladaptive use.
+
+Basically, I think ICD-based measures come closer to a reasonable approach than DSM-5 ones (although there’s room for improvement in the ICD too).
+
+## Violent Video Games
+
+### Do violent video games cause aggression or violence?
+
+In my best assessment of the scientific literature, there is no meaningful relationship between playing violent video games such as FPSs and violent behavior or aggression. While studies have shown mixed results in controlled laboratory settings (for example, finding that playing a violent video game increases the amount of hot sauce a person administers to their opponent), there is vanishingly little evidence that this translates into substantial real-world harms. For example:
+
+- When studies use high quality methods to compare two versions of the same game with and without violence, as opposed to many previous studies which compared two entirely separate games, they find no eAect on aggression [(Hilgard et al., 2019)](https://journals.sagepub.com/doi/10.1177/0956797619829688)
+- When flagship violent video game titles are released, crime rates temporarily decrease [(Beerthuizen et al., 2017)](https://doi.org/10.1177/1477370817717070)
+- Studies that use tracked behavior instead of unreliable self-reports of violent video game play similarly find no relationship with aggression [(Johannes et al., 2022)](https://doi.org/10.1525/collabra.34606)
+- •	So called “meta analyses” that summarize evidence from dozens of studies, when executed carefully, have found no relationship between engagement with violent video games and aggression [(Hilgard et al., 2017)](https://psycnet.apa.org/doi/10.1037/bul0000074)
+
+I recommend reading Moral Combat by Patrick Markey and Chris Ferguson for a good general audience summary of the research in this area (if a little outdated now).
+
+### In your experience, do violent video games affect teens' mental health in a positive or negative way? Any examples?
+
+Same answer as above: gaming in general affects teen mental health in positive and negative ways all the time, but  very little of this has to do with violence. The best available evidence shows no relationship between playing violent video games and aggression in the real world. In fact, there’s some evidence showing that [crime rates go down](https://doi.org/10.1177/1477370817717070) following the release of highly-popular violent titles like GTA 5—maybe we’ll see something similar later this year with GTA 6. Moral Combat, by Patrick Markey and Chris Ferguson, does a good job laying out the evidence in a digestible way.
+
+### Do you think there are ways to play violent video games and have it NOT affect teens' mental health? Like time limits or guidelines?
+
+There is no consensus on concrete time limits: research shows that there are people playing upwards of 6 hours a day who are thriving, and those playing an hour a week who still experience harms—in general, raw time spent playing games has little to no relationship with mental health. The route to healthy gaming is unfortunately more nuanced: it’s about reflecting on what one wants out of a gaming session before they choose to play it (playing intentionally, not automatically), about cultivating an inviting social environment by playing with friends or even virtual characters people feel a connection to, and cultivating the feelings of mastery and improvement that games are so good at providing. Whether you get these experiences from games with or without violence is in my mind largely an afterthought. That’s not to say there shouldn't be common-sense limitations on exactly how violent or realistic games should be for a particular age group, but in my mind the ESRB and PEGI ratings cover this pretty well.
+
+### How do you help teens with mental health issues caused by violent video games?
+
+More often than not, problematic gaming is a coping mechanism for other underlying problems—like feeling lonely and disconnected from others, struggling at school or at work, a lack of purpose or meaning, or mental health conditions like depression and anxiety—rather than the source of the problems. So treatment is typically quite similar to what you’d see for other mental health conditions. We might ask people to reflect on why they gravitate towards games, what about them they find frustrating vs rewarding, what kind of situation provoke aggressive responses and what alternative outlets they might have. Very broadly, I think gaming is good when it’s one resource among many for entertainment, stress relief, and social connection, and problematic when it’s the only one. So treatment for people who are struggling should also focus on finding alternative interests and activities that give them the same feelings of pleasure or catharsis—sports, artistic pursuits, and so on. These conversations can happen in both informal contexts (among peers, or with a parent), and more formal ones (e.g., cognitive-behavioral therapy).
+
+## The Science of Games
+
+### Are academic insights about games user research penetrating the industry, or just formalizing what is already known? 
+
+I don’t have a ton of insight into this, having myself never worked in industry, but on the whole I think you’re right. In most cases, what academics are doing is basically playing in the sandbox compared to what’s possible with millions of telemetry data points and more specific, iterative play testing. [Immersyve](https://immersyve.com), for example, is a games consultancy (now pivoting to health care, and whose website is horrifically out of date) that uses SDT but in the form of a questionnaire with ~100 subscales like “avatar creation autonomy" identifying particular kinds of need satisfaction that may be more or less applicable for certain genres. Some portion of the disconnect is naivety about how relevant or cutting edge academic research is and a lack of clear models for translating those abstractions into applicable findings (areas where new research could certainly help, especially with the right industry partner), but some is just a fundamental mismatch in goals - researchers largely try to understand general processes, whereas designers and developers need really specific information about how one tiny feature about e.g. questing affects player engagement in their particular game context.
+
+
+### How do you approach measuring the impact of video games on mood or anxiety in a scientifically reliable way?
+
+The gold standard for figuring out the impact of games on mood or anxiety would be to take a big group of people, and have half of them play a particular video game and the other half do an alternative activity (for example, using social media or doing a puzzle), and compare the two groups when they’re finished. The problem is that when you ask someone to play a game, it already affects them quite differently than when they play voluntarily. So instead, we try to collect careful records of people’s gaming sessions, and also have them answer a lot of surveys, randomly throughout the day so that some are before, during, and after gaming sessions. Then we try to piece together those records to see how gaming typically affects that particular person’s changes in mood or anxiety.
+
+### What are some of the key challenges researchers face when studying gaming behavior and mental health, especially across different cultures or age groups?
+
+The biggest problem is that gaming is just so diverse. Even within a single game, people can have such different experiences based on who they’re playing with, what game mode they’re playing, how successful they are, and so on. Once you then take into account different games, different genres, and different technologies besides games, it becomes an explosion of different factors. We try to identify the particular “active ingredients” that ultimately determine who benefits and who is harmed from a particular session, but this is no easy task.
+
+## Cognitive and Other Psychological Effects
+
+### Are there any misconceptions in public discourse about the psychological effects of gaming?
+
+For me, the biggest misconceptions are that (1) violent video games make people aggressive, (2) sexualized characters cause people to have body image issues, and (3) gaming makes people unhealthy or obese. All of these show up in negative stereotypes about people who play games, but by now the scientific evidence is very clear that they’re not widespread problems. People who play violent games are no more likely to commit violent acts in the real world—even though games can sometimes cause short feelings of frustration, this is typically much better explained by losing or playing poorly than by violent content. Similarly, although it makes sense that girls might feel their body is inadequate when seeing a warrior princess in very little clothing, (or that boys might feel the same seeing muscular male heroes), the research shows that this doesn’t tend to happen - it’s much more common when viewing (edited) images of real people like on Instagram. Finally, people who play games are no less fit or healthy than people who do - people have a lot of sedentary activities like sitting and using computers today, and there’s nothing about gaming that’s any worse for our bodies than the other non-active people do. Sit up straight and watch for finger strain, but otherwise, happy gaming 🫡
+
+### What are the overall benefits video games can have on teens and their cognitive development?
+
+People often claim that playing video games can improve what’s called “executive function”, or people’s ability to direct their attention, focus on certain information and ignore other details, and keep multiple things in their memory. The research on this topic is a little mixed, but I personally do think that video games with action mechanics—those that require fast reaction times, simultaneous attention to multiple sources of information on the screen (e.g., an enemy and the UI with current ammo) and complex motor skills—have some positive impact on cognitive development. There is also evidence that neurodiverse players may benefit especially from the cognitive skills tested during video game play (see, for example, [this study](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/b8b2d858-a841-493a-b897-71e124028349/content) about Minecraft). Probably, for most players, cognitive development is only altered by video games in very minor ways, and the main benefits of gaming come in other areas such as emotion regulation and social benefits.
+ 
+
+
+
+
