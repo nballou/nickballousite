@@ -65,11 +65,17 @@ Without a doubt, there are lots of people who play games to excess such that it 
 
 ### Should dysregulated gaming scales exclusively measure core criteria (e.g., continuation despite problems) and ignore peripheral criteria (e.g., escapism)?
 
+{{% callout note %}} See e.g. [this paper](https://doi.org/10.1016/j.chb.2021.107140) for a discussion of core vs peripheral criteria. {{% /callout %}}
+
 I’ve only dipped my toe in the psychometrics/behavioral addictions literature, so there are certainly experts who'd have a more informed opinion, but my instinct is that peripheral criteria should not be included at all. Even if clearly marked and treated as two separate factors, I think it becomes very easy for people to (subconsciously) conflate “high engagement = problematic engagement”. Conceptually, I think having people consciously make a decision to measure each of those concepts separately, and think carefully about how they relate to each other, is only a net positive for the field.
 
 In particular, I think the escapism/mood modification item is much more likely to capture “does this person have problems/low mood to escape from in the first place?” and shouldn’t be included in a measure of problematic use. There are so many more interesting and nuanced models of [escapism](https://doi.org/10.1037/ppm0000339) that can account for both adaptive and maladaptive use.
 
 Basically, I think ICD-based measures come closer to a reasonable approach than DSM-5 ones (although there’s room for improvement in the ICD too).
+
+### How do you help people with mental health issues caused by video games?
+
+More often than not, problematic gaming is a coping mechanism for other underlying problems—like feeling lonely and disconnected from others, struggling at school or at work, a lack of purpose or meaning, or mental health conditions like depression and anxiety—rather than the source of the problems. So treatment is typically quite similar to what you’d see for other mental health conditions. We might ask people to reflect on why they gravitate towards games, what about them they find frustrating vs rewarding, what kind of situation provoke aggressive responses and what alternative outlets they might have. Very broadly, I think gaming is good when it’s one resource among many for entertainment, stress relief, and social connection, and problematic when it’s the only one. So treatment for people who are struggling should also focus on finding alternative interests and activities that give them the same feelings of pleasure or catharsis—sports, artistic pursuits, and so on. These conversations can happen in both informal contexts (among peers, or with a parent), and more formal ones (e.g., cognitive-behavioral therapy).
 
 ## Violent Video Games
 
@@ -92,9 +98,6 @@ Same answer as above: gaming in general affects teen mental health in positive a
 
 There is no consensus on concrete time limits: research shows that there are people playing upwards of 6 hours a day who are thriving, and those playing an hour a week who still experience harms—in general, raw time spent playing games has little to no relationship with mental health. The route to healthy gaming is unfortunately more nuanced: it’s about reflecting on what one wants out of a gaming session before they choose to play it (playing intentionally, not automatically), about cultivating an inviting social environment by playing with friends or even virtual characters people feel a connection to, and cultivating the feelings of mastery and improvement that games are so good at providing. Whether you get these experiences from games with or without violence is in my mind largely an afterthought. That’s not to say there shouldn't be common-sense limitations on exactly how violent or realistic games should be for a particular age group, but in my mind the ESRB and PEGI ratings cover this pretty well.
 
-### How do you help teens with mental health issues caused by violent video games?
-
-More often than not, problematic gaming is a coping mechanism for other underlying problems—like feeling lonely and disconnected from others, struggling at school or at work, a lack of purpose or meaning, or mental health conditions like depression and anxiety—rather than the source of the problems. So treatment is typically quite similar to what you’d see for other mental health conditions. We might ask people to reflect on why they gravitate towards games, what about them they find frustrating vs rewarding, what kind of situation provoke aggressive responses and what alternative outlets they might have. Very broadly, I think gaming is good when it’s one resource among many for entertainment, stress relief, and social connection, and problematic when it’s the only one. So treatment for people who are struggling should also focus on finding alternative interests and activities that give them the same feelings of pleasure or catharsis—sports, artistic pursuits, and so on. These conversations can happen in both informal contexts (among peers, or with a parent), and more formal ones (e.g., cognitive-behavioral therapy).
 
 ## The Science of Games
 
