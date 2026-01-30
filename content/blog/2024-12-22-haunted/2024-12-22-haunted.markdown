@@ -1,0 +1,75 @@
+---
+title: "A Comprehensive List of Embarrassing Moments that Continue to Haunt Me into my 30s"
+author: ["admin"]
+date: '2024-06-20'
+lastmod: '2025-02-10'
+slug: imposter-B
+categories: []
+tags: []
+summary: "Science is a job for me, not a calling. Is that an issue?"
+subtitle: "Science is a job for me, not a calling. Is that an issue?"
+smartDashes: true
+toc: true
+commentable: true
+codefolding_show: show
+---
+
+<style type="text/css">
+
+pre {
+  max-height: 350px;
+  overflow-y: auto;
+}
+
+pre[class] {
+  max-height: 350px;
+}
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+  scrollbar-color: red yellow;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, .5);
+  box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+  scrollbar-color: red yellow;
+}
+
+.scrollable-element {
+  
+}
+
+</style>
+
+I'm a ruminator. Someone who ruminates a lot, that is. We all are, to an extent, but I have the feeling that my mind sometimes takes it to an extreme, to the point where it's kind of paralyzing. And certainly makes the time I spend with my own thoughts a little less pleasant. 
+
+You shouldn't read this. One, because you might get secondhand embarrassment, and two, because it's neither interesting nor relevant. This is just my hope that by airing my embarrassments publicly, they will hold less power over me. Here goes. 
+
+- When, in a neighborhood I'd lived in for 4 years, someone asked for directions to the nearest hospital, and I confidently pointed them in the wrong direction.
+- When, in high school, I tried to keep up with my cooler friends who made nicknames for crushes by making acrostics out of people's reversed initials (e.g., Nick Ballou = NB = BN = Baloney Nugget), but I had the wrong last name. 
+- Everything, and I mean everything, to do with how I handled the end of my first relationship. This belongs on a list of the worst things I've ever done, rather than a list of embarrassments, but it needs to be acknowledged. 
+- When, in high school, I signed up for an a cappella audition and then was so scared I just never turned up, with no warning.  
+- When, in middle school, I asked why one of the popular kids had a lighter on him because it never even crossed my mind that someone that age could smoke.
+- When, in college, I skipped like 30% of lectures in a class and still had the audacity to ask my teacher for letters of recommendation.
+- When, on several occasions, I confidently tried to act like I knew how to navigate London nightlife but ended up bringing us to places that were dead or simply not the right vibe for the group. 
+- When, having noticed a titan of the field getting off the same flight as me on the way home from a conference, I overstayed my welcome and walked alongside them for longer than they were comfortable with. In a subsequent interaction with the same person, I tried to keep it as brief as possible and they still found an excuse to immediately escape.
+- When, after friends were generous enough to let us stay at their apartment for almost two weeks, I pushed the limits of their hospitality by asking if we could have also people over.
+- When, at roughly age 15, I called Maya Rudolph a "babe" in front of my parents, not even because I was particularly attracted to her, but because my girlfriend at the time was a fan and I thought it would make me seem cool. Love her in The Good Place though. 
+- Every single time I've failed to have a smooth hello or goodbye, leading to some horrific part handshake/hug/first bump.
+- When, at a bar, I joined a group that included someone I had met on two previous occasions, I still said "nice to meet you" and treated him like a new face for like a full 20 minutes.
+- When, on the first day of my PhD, I asked a lecturer whether he was a student in our cohort.
+- When, at a music festival, I tried to give away gummy worms, which were both loose and way chewier than anyone in that state of mind would want. If you know, you know. 
+- When, at a local park, I helped pick wildflowers that were clearly not meant to be picked.
+- When I sat next to one of the most famous people in all of psychology for dinner, and wasted the time with small talk rather than asking any meaningful questions about his work, the field, advice for young researchers, and so on.
+- When, while staying at the apartment of one of my parents' friends for a couple nights, I trimmed my toenails and only realized I forgot to clean it up after we had left. 
+- When, in middle school, I gave a whole lecture about what the word "fucking" literally means and therefore how it can't be used in sentences like "my fucking leg hair" to a group of friends who were too polite to tell me I was the biggest buzzkill on planet earth.
+- When, in my master's, I tried to make my way through a dense crowd, saw someone I knew. I waved to her, and then raised one arm to create a path forward---she thought I was going for a hug and raised her arm in turn, but despite noticing this at the last second I instead just squeezed past her and left her completely hanging. 
+- An amalgam of times where I was the least suave flirt on earth, 
+
+In the short time I've spent writing this, I notice that trying to think of these examples seems to make them flee from my mind. Perhaps that's a sign that this is worth doing.
+
+May your mind be less cluttered with these thoughts than mine.
+
+To be continued. 
