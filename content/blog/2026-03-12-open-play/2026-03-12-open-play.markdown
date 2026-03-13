@@ -1,0 +1,42 @@
+---
+title: "The Open Play Study"
+author: ["admin"]
+date: '2026-03-12'
+lastmod: '2026-03-13'
+slug: open-play
+categories: []
+tags: []
+summary: ""
+subtitle: ""
+smartDashes: true
+toc: true
+commentable: true
+codefolding_show: show
+---
+
+**Open Play** is one of the largest studies ever conducted on how video games affect mental health — and one of the most transparent. We tracked 3,600 players' real gameplay behavior across Nintendo Switch, Steam, and Xbox for up to 43 months, paired with 23,000 survey responses measuring wellbeing, motivation, cognition, and mental health over 12 weeks. The result: 1.5 million hours of play across 10,475 titles, linked to rich psychological data — all publicly available.
+
+What makes Open Play unusual isn't just its scale. The study was built from the ground up around principles that are still rare in this field: industry collaboration with fully open data, public funding with no industry editorial control, and registered report peer review to limit researcher bias. 
+
+The data and samples are available under a CC0 license (with a supplemental reidentification clause) at [Zenodo](https://doi.org/10.5281/zenodo.17536656). 
+
+{{% callout note %}} If you're interested in working with this data, opening new doors for industry collaboration, or any other topics related to behavioral data and player health/safety, I highly encourage you to get in touch (n.ballou@imperial.ac.uk) — there's a lot of important work still to be done. {{% /callout %}}
+
+
+# Findings so far
+
+The project is ongoing and this page will be updated as new work comes out.
+
+**[The Open Play Dataset](https://doi.org/10.31234/osf.io/nz96c_v1)** — Describes the full dataset: how we collected it, what it contains, and how others can find and reuse it.
+
+**[Demographics and Individual Differences](https://nballou.github.io/open-play-demographics/index-typst.pdf)** — Players differ by age, gender, ethnicity, and neurodiversity in when and how they play, what genres they prefer, and how consistent their habits are. But individual variation dwarfs demographic differences.
+
+**[Needs and Behavior (BANG model)](https://doi.org/10.31234/osf.io/wqr6u_v1)** — Basic psychological needs — one of the most widely used frameworks in player experience research — turn out to be weak predictors of actual gameplay behavior.
+
+**Forthcoming:** Late-night gaming and sleep; genre and wellbeing.
+
+We have also written a paper on **[cross-sector collaboration](https://osf.io/w3pyn_v2)**, charting a course for the next five years of research into player health and safety.
+
+
+
+
